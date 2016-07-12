@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Acheron",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82548.jpg",
+  "name": "Xong-yong (Energon)",
+  "tags": [
+    "Extraplanar",
+    "Incorporeal"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "25",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "26",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88137.jpg",
+  "name": "Brain, Elder",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

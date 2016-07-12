@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate",
+    "Warm Land",
+    "Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG12.jpg",
+  "name": "Aballin",
+  "tags": [
+    "Large ooze"
+  ],
+  "type": "Large ooze"
+}

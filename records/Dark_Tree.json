@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "7",
+  "environment": [
+    "Warm Forests"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG32.jpg",
+  "name": "Dark Tree",
+  "tags": [
+    "Huge plant"
+  ],
+  "type": "Huge plant"
+}

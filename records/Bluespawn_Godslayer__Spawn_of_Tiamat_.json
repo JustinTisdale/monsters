@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "10",
+  "environment": [
+    "Temperate",
+    "Warm Deserts"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98716.jpg",
+  "name": "Bluespawn Godslayer (Spawn of Tiamat)",
+  "tags": [
+    "Dragonblood"
+  ],
+  "type": "Huge monstrous humanoid"
+}

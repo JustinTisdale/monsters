@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG150.jpg",
+  "name": "Harpy",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

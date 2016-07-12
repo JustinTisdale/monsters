@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG51.jpg",
+  "name": "Devil: Lemure",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

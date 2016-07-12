@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "11",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "8",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50130.jpg",
+  "name": "Varrangoin Arcanist",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium magical beast"
+}

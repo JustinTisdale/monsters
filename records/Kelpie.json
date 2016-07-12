@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Aquatic",
+    "Land"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50096.jpg",
+  "name": "Kelpie",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Large fey"
+}

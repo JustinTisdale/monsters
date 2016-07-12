@@ -1,0 +1,15 @@
+{
+  "alignement": "LN",
+  "challengeRating": "<1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "1",
+  "homePlane": "Mechanus",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98672.jpg",
+  "name": "Clockwork Mender",
+  "tags": [
+    "Tiny construct"
+  ],
+  "type": "Tiny construct"
+}

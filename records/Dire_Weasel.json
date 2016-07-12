@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Dire Weasel",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

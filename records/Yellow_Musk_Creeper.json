@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50152.jpg",
+  "name": "Yellow Musk Creeper",
+  "tags": [
+    "Huge plant"
+  ],
+  "type": "Huge plant"
+}

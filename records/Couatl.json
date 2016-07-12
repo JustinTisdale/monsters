@@ -1,0 +1,15 @@
+{
+  "alignement": "LG",
+  "challengeRating": "10",
+  "environment": [
+    "Warm Forests"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG38a.jpg",
+  "name": "Couatl",
+  "tags": [
+    "Native"
+  ],
+  "type": "Large outsider"
+}

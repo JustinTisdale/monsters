@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "17",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "18",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82981.jpg",
+  "name": "Demon: Sorrowsworn Demon (Tanar'ri)",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

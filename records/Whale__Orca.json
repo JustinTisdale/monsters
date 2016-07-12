@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Cold Aquatic"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Whale, Orca",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

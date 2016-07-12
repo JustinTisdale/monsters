@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "28",
+  "environment": [
+    "Any Deserts",
+    "Plains",
+    "Underground"
+  ],
+  "hitDice": "24",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_51.jpg",
+  "name": "Fiendwurm",
+  "tags": [
+    "Gargantuan magical beast"
+  ],
+  "type": "Gargantuan magical beast"
+}

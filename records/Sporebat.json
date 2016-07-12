@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Temperate Hills",
+    "Plains"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_157.jpg",
+  "name": "Sporebat",
+  "tags": [
+    "Medium plant"
+  ],
+  "type": "Medium plant"
+}

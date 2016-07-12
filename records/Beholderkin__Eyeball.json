@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "<1",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG23.jpg",
+  "name": "Beholderkin, Eyeball",
+  "tags": [
+    "Tiny aberration"
+  ],
+  "type": "Tiny aberration"
+}

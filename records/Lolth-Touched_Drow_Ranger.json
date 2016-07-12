@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98697.jpg",
+  "name": "Lolth-Touched Drow Ranger",
+  "tags": [
+    "Medium humanoid"
+  ],
+  "type": "Medium humanoid"
+}

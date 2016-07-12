@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "24",
+  "homePlane": "Any Outer",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50123.jpg",
+  "name": "Cranium Rat Swarm, Greater Pack",
+  "tags": [
+    "Extraplanar",
+    "Swarm"
+  ],
+  "type": "Medium magical beast"
+}

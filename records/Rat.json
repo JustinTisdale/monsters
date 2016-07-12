@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "0",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Rat",
+  "tags": [
+    "Tiny animal"
+  ],
+  "type": "Tiny animal"
+}

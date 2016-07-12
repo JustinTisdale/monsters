@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "13",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Kython Slaughterking",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

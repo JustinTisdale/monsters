@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Temperate Deserts"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG88b.jpg",
+  "name": "Dragonne",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

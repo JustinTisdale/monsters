@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "18",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50094.jpg",
+  "name": "Giant, Shadow",
+  "tags": [
+    "Huge giant"
+  ],
+  "type": "Huge giant"
+}

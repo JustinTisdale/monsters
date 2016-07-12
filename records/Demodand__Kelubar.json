@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "13",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "13",
+  "homePlane": "Carceri",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50076.jpg",
+  "name": "Demodand: Kelubar",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

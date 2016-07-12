@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Elemental Air",
+  "image": null,
+  "name": "Mephit, Air",
+  "tags": [
+    "Air",
+    "Extraplanar"
+  ],
+  "type": "Small outsider"
+}

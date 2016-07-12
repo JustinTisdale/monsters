@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Deserts"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Dire Bat",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

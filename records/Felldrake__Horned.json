@@ -1,0 +1,16 @@
+{
+  "alignement": "NG",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_49.jpg",
+  "name": "Felldrake, Horned",
+  "tags": [
+    "Medium dragon"
+  ],
+  "type": "Medium dragon"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "LN",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83077.jpg",
+  "name": "Warforged Charger",
+  "tags": [
+    "Living"
+  ],
+  "type": "Large construct"
+}

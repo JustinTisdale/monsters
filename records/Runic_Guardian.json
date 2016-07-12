@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "17",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_110.jpg",
+  "name": "Runic Guardian",
+  "tags": [
+    "Large construct"
+  ],
+  "type": "Large construct"
+}

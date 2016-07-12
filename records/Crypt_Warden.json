@@ -1,0 +1,15 @@
+{
+  "alignement": "LG",
+  "challengeRating": "8",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75102.jpg",
+  "name": "Crypt Warden",
+  "tags": [
+    "Medium deathless"
+  ],
+  "type": "Medium deathless"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Acheron",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50072.jpg",
+  "name": "Bonespear",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large vermin"
+}

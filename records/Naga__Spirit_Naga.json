@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "9",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG192.jpg",
+  "name": "Naga: Spirit Naga",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate",
+    "Warm Forests",
+    "Marshes"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98669.jpg",
+  "name": "Bloodsilk Spider",
+  "tags": [
+    "Small magical beast"
+  ],
+  "type": "Small magical beast"
+}

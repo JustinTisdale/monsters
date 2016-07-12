@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Slaughterstone Eviscerator",
+  "tags": [
+    "Earth"
+  ],
+  "type": "Large construct"
+}

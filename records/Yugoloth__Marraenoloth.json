@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "10",
+  "homePlane": "Gehenna",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_127.jpg",
+  "name": "Yugoloth: Marraenoloth",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG19.jpg",
+  "name": "Bat, Deep, Sinister",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

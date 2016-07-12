@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "17",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "30",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_24.jpg",
+  "name": "Deathbringer",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

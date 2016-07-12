@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Elemental Air",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG20a.jpg",
+  "name": "Arrowhawk, Juvenile",
+  "tags": [
+    "Air",
+    "Extraplanar"
+  ],
+  "type": "Small outsider"
+}

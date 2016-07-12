@@ -1,0 +1,19 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Any Forests",
+    "Hills",
+    "Mountains",
+    "Plains",
+    "Underground"
+  ],
+  "hitDice": "20",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Legendary Bear",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

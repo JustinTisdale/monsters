@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "15",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_50.jpg",
+  "name": "Fihyr, Great",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Warm Plains"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Dire Lion",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

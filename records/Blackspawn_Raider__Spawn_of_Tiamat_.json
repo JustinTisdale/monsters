@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Warm Marshes"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98712.jpg",
+  "name": "Blackspawn Raider (Spawn of Tiamat)",
+  "tags": [
+    "Dragonblood"
+  ],
+  "type": "Medium monstrous humanoid"
+}

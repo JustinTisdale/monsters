@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Zombie, Ogre",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

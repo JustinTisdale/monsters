@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Shadow",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88151.jpg",
+  "name": "Choker, Shadow",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Small aberration"
+}

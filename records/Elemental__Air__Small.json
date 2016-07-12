@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Elemental Air",
+  "image": null,
+  "name": "Elemental, Air, Small",
+  "tags": [
+    "Air",
+    "Extraplanar"
+  ],
+  "type": "Small elemental"
+}

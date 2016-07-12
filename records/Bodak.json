@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "9",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG28b.jpg",
+  "name": "Bodak",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium undead"
+}

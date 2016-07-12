@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "17",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "16",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG41.jpg",
+  "name": "Demon: Marilith",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

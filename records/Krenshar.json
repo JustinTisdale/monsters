@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate",
+    "Warm Forests",
+    "Plains"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG163.jpg",
+  "name": "Krenshar",
+  "tags": [
+    "Medium magical beast"
+  ],
+  "type": "Medium magical beast"
+}

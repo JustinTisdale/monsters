@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84739.jpg",
+  "name": "Bone Rat Swarm",
+  "tags": [
+    "Swarm"
+  ],
+  "type": "Tiny undead"
+}

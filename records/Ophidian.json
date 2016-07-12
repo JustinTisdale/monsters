@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "2",
+  "environment": [
+    "Warm Forests",
+    "Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50175.jpg",
+  "name": "Ophidian",
+  "tags": [
+    "Reptilian"
+  ],
+  "type": "Medium monstrous humanoid"
+}

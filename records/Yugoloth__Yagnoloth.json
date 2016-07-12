@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Gehenna",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_127.jpg",
+  "name": "Yugoloth: Yagnoloth",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

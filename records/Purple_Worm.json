@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG211.jpg",
+  "name": "Purple Worm",
+  "tags": [
+    "Gargantuan magical beast"
+  ],
+  "type": "Gargantuan magical beast"
+}

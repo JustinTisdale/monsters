@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "7",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG29.jpg",
+  "name": "Cloaker Lord",
+  "tags": [
+    "Huge aberration"
+  ],
+  "type": "Huge aberration"
+}

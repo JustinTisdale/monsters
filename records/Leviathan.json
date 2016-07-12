@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "25",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "32",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_79.jpg",
+  "name": "Leviathan",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Colossal magical beast"
+}

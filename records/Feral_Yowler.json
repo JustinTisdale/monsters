@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Temperate Mountains"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82989.jpg",
+  "name": "Feral Yowler",
+  "tags": [
+    "Medium magical beast"
+  ],
+  "type": "Medium magical beast"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "15",
+  "homePlane": "Elemental Air",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG20a.jpg",
+  "name": "Arrowhawk, Elder",
+  "tags": [
+    "Air",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

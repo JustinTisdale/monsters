@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "8",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "14",
+  "homePlane": "Abyss",
+  "image": null,
+  "name": "Locust Swarm, Bloodfiend",
+  "tags": [
+    "Extraplanar",
+    "Swarm"
+  ],
+  "type": "Medium vermin"
+}

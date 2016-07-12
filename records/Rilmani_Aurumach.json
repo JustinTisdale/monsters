@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "17",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "16",
+  "homePlane": "Outlands",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50089.jpg",
+  "name": "Rilmani Aurumach",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

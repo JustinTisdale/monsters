@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Ochre Jelly",
+  "tags": [
+    "Large ooze"
+  ],
+  "type": "Large ooze"
+}

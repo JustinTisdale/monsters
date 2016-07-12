@@ -1,0 +1,17 @@
+{
+  "alignement": "LN",
+  "challengeRating": "8",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "8",
+  "homePlane": "Mechanus",
+  "image": null,
+  "name": "Formian Armadon",
+  "tags": [
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

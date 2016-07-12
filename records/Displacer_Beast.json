@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG67a.jpg",
+  "name": "Displacer Beast",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

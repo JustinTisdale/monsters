@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Astral",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98687.jpg",
+  "name": "Githyanki Soldier",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium humanoid"
+}

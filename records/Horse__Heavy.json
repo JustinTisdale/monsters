@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Horse, Heavy",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

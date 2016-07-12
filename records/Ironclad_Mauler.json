@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83076.jpg",
+  "name": "Ironclad Mauler",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

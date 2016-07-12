@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Temperate Aquatic"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Whale, Cachalot",
+  "tags": [
+    "Gargantuan animal"
+  ],
+  "type": "Gargantuan animal"
+}

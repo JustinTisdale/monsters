@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG10.jpg",
+  "name": "Allip",
+  "tags": [
+    "Incorporeal"
+  ],
+  "type": "Medium undead"
+}

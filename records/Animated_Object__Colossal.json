@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "32",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG13.jpg",
+  "name": "Animated Object, Colossal",
+  "tags": [
+    "Colossal construct"
+  ],
+  "type": "Colossal construct"
+}

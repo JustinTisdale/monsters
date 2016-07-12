@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Any Forests",
+    "Mountains",
+    "Underground"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_156.jpg",
+  "name": "Spellgaunt",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

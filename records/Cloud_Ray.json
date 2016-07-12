@@ -1,0 +1,19 @@
+{
+  "alignement": "N",
+  "challengeRating": "16",
+  "environment": [
+    "Temperate",
+    "Warm Deserts",
+    "Hills",
+    "Marshes",
+    "Plains"
+  ],
+  "hitDice": "30",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_20.jpg",
+  "name": "Cloud Ray",
+  "tags": [
+    "Colossal magical beast"
+  ],
+  "type": "Colossal magical beast"
+}

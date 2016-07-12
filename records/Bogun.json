@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_9.jpg",
+  "name": "Bogun",
+  "tags": [
+    "Tiny construct"
+  ],
+  "type": "Tiny construct"
+}

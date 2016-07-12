@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Gehenna",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83085.jpg",
+  "name": "Yugoloth, Mezzoloth",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

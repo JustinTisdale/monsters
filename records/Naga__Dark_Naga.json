@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "8",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Naga: Dark Naga",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

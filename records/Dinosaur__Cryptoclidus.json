@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Warm Aquatic"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_31.jpg",
+  "name": "Dinosaur: Cryptoclidus",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Large animal"
+}

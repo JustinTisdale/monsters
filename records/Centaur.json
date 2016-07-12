@@ -1,0 +1,15 @@
+{
+  "alignement": "NG",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG32.jpg",
+  "name": "Centaur",
+  "tags": [
+    "Large monstrous humanoid"
+  ],
+  "type": "Large monstrous humanoid"
+}

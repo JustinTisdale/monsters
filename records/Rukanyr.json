@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "9",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50150.jpg",
+  "name": "Rukanyr",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

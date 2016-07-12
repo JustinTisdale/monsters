@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "16",
+  "homePlane": "Abyss",
+  "image": "http://wizards.com/dnd/images/csq_gallery/44442.jpg",
+  "name": "Ghoul, Abyssal",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium undead"
+}

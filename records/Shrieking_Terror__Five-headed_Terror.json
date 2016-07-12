@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "15",
+  "homePlane": "Carceri",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83052.jpg",
+  "name": "Shrieking Terror: Five-headed Terror",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium aberration"
+}

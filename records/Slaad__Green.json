@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "9",
+  "homePlane": "Limbo",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG230.jpg",
+  "name": "Slaad, Green",
+  "tags": [
+    "Chaotic",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

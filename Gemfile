@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'awesome_print', '~> 1.6'
+gem 'parallel', '~> 1.6.1'
+gem 'actionview', '~> 4.2.4'
+# gem 'algoliasearch', '~> 1.7.0'
+# gem 'guard-rspec', '~> 4.6'
+gem 'json', '~> 1.8.3'
+gem 'nokogiri', '~> 1.6.6.2'
+# gem 'rspec', '~> 3.0'
+gem 'slugify', '~> 1.0.6'

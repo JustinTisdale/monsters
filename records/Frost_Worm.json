@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Cold Plains"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG111.jpg",
+  "name": "Frost Worm",
+  "tags": [
+    "Cold"
+  ],
+  "type": "Huge magical beast"
+}

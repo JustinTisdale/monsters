@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Warm Forests",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50162.jpg",
+  "name": "Ti-Khana Deinonychus",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

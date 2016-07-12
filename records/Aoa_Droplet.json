@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Astral, Ethereal",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50114.jpg",
+  "name": "Aoa Droplet",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

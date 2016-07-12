@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83047.jpg",
+  "name": "Sea Tiger",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

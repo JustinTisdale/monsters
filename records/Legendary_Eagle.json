@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Any Forests",
+    "Hills",
+    "Mountains",
+    "Plains"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Legendary Eagle",
+  "tags": [
+    "Small animal"
+  ],
+  "type": "Small animal"
+}

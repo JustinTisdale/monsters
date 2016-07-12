@@ -1,0 +1,15 @@
+{
+  "alignement": "NG",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Elysium",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75116.jpg",
+  "name": "Quesar",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium construct"
+}

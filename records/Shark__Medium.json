@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Cold Aquatic"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Shark, Medium",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium animal"
+}

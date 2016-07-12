@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "11",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG55.jpg",
+  "name": "Golem, Gemstone, Ruby",
+  "tags": [
+    "Large construct"
+  ],
+  "type": "Large construct"
+}

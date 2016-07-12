@@ -1,0 +1,15 @@
+{
+  "alignement": "LN",
+  "challengeRating": "12",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "17",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82972.jpg",
+  "name": "Cadaver Collector",
+  "tags": [
+    "Large construct"
+  ],
+  "type": "Large construct"
+}

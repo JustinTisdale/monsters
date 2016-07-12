@@ -1,0 +1,17 @@
+{
+  "alignement": "CN",
+  "challengeRating": "6",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Limbo",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50176.jpg",
+  "name": "Slaad, Mud",
+  "tags": [
+    "Chaotic",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

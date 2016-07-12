@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Cold",
+    "Warm Marshes"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG156.jpg",
+  "name": "Hydra, cryo/pyro, 11-headed",
+  "tags": [
+    "Huge magical beast"
+  ],
+  "type": "Huge magical beast"
+}

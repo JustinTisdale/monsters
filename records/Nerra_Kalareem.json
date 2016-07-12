@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Mirrors",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50087.jpg",
+  "name": "Nerra Kalareem",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

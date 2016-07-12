@@ -1,0 +1,18 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50141.jpg",
+  "name": "Vorr",
+  "tags": [
+    "Cold",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

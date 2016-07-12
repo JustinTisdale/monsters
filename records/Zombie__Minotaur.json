@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "4",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Zombie, Minotaur",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

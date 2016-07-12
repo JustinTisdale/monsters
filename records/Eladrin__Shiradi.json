@@ -1,0 +1,17 @@
+{
+  "alignement": "CG",
+  "challengeRating": "14",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Arborea",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75106.jpg",
+  "name": "Eladrin: Shiradi",
+  "tags": [
+    "Chaotic",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Large outsider"
+}

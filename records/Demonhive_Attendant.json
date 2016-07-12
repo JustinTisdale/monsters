@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate",
+    "Warm Land"
+  ],
+  "hitDice": "3",
+  "homePlane": "Any Evil",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98681.jpg",
+  "name": "Demonhive Attendant",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Small outsider"
+}

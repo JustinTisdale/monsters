@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Elemental Water",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_43.jpg",
+  "name": "Weird, Water",
+  "tags": [
+    "Extraplanar",
+    "Water"
+  ],
+  "type": "Large elemental"
+}

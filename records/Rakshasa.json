@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "10",
+  "environment": [
+    "Warm Marshes"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG212.jpg",
+  "name": "Rakshasa",
+  "tags": [
+    "Native"
+  ],
+  "type": "Medium outsider"
+}

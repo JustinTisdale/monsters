@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "17",
+  "homePlane": "Shadow",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88136.jpg",
+  "name": "Cloaker, Shadowcloak Elder",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Huge aberration"
+}

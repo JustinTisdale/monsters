@@ -1,0 +1,18 @@
+{
+  "alignement": "LG",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "11",
+  "homePlane": "Celestia",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75097.jpg",
+  "name": "Archon, Sword",
+  "tags": [
+    "Archon",
+    "Extraplanar",
+    "Good",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98697.jpg",
+  "name": "Lolth-Touched Monstrous Spider",
+  "tags": [
+    "Large vermin"
+  ],
+  "type": "Large vermin"
+}

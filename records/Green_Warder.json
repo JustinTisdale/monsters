@@ -1,0 +1,16 @@
+{
+  "alignement": "CG",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate Forests",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG57.jpg",
+  "name": "Green Warder",
+  "tags": [
+    "Medium plant"
+  ],
+  "type": "Medium plant"
+}

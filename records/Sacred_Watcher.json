@@ -1,0 +1,15 @@
+{
+  "alignement": "G",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75117.jpg",
+  "name": "Sacred Watcher",
+  "tags": [
+    "Augmented humanoid"
+  ],
+  "type": "Medium deathless"
+}

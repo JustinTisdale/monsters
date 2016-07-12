@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "11",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "24",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_84.jpg",
+  "name": "Megalodon",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Gargantuan animal"
+}

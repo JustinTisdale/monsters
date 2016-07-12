@@ -1,0 +1,16 @@
+{
+  "alignement": "NG",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Beastlands",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75113.jpg",
+  "name": "Hollyphant, Winged Elephant Form",
+  "tags": [
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Small outsider"
+}

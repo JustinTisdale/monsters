@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "15",
+  "homePlane": "Any Evil",
+  "image": null,
+  "name": "Nightmare, Cauchemar",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Huge outsider"
+}

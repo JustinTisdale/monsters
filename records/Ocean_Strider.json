@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "18",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "30",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_96.jpg",
+  "name": "Ocean Strider",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Huge fey"
+}

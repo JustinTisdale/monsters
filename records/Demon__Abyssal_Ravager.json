@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_25.jpg",
+  "name": "Demon: Abyssal Ravager",
+  "tags": [
+    "Chaotic",
+    "Evil"
+  ],
+  "type": "Large outsider"
+}

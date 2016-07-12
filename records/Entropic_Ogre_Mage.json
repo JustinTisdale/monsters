@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Negative Energy",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82550.jpg",
+  "name": "Entropic Ogre Mage",
+  "tags": [
+    "Augmented giant",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

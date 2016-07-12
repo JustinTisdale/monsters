@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83027.jpg",
+  "name": "Nycter",
+  "tags": [
+    "Small monstrous humanoid"
+  ],
+  "type": "Small monstrous humanoid"
+}

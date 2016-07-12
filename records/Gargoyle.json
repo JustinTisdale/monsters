@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG113.jpg",
+  "name": "Gargoyle",
+  "tags": [
+    "Earth"
+  ],
+  "type": "Medium monstrous humanoid"
+}

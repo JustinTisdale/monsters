@@ -1,0 +1,16 @@
+{
+  "alignement": "C",
+  "challengeRating": "21",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "20",
+  "homePlane": "Chaotic Good",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG242b.jpg",
+  "name": "Titan",
+  "tags": [
+    "Chaotic",
+    "Extraplanar"
+  ],
+  "type": "Huge outsider"
+}

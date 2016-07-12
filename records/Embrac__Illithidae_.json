@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88145.jpg",
+  "name": "Embrac (Illithidae)",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

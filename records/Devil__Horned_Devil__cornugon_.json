@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "16",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "15",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG52.jpg",
+  "name": "Devil: Horned Devil (cornugon)",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

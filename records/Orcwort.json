@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "20",
+  "environment": [
+    "Temperate",
+    "Warm Hills",
+    "Marshes",
+    "Plains"
+  ],
+  "hitDice": "32",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_97.jpg",
+  "name": "Orcwort",
+  "tags": [
+    "Colossal plant"
+  ],
+  "type": "Colossal plant"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "LN",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Deserts"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82962.jpg",
+  "name": "Armand",
+  "tags": [
+    "Small monstrous humanoid"
+  ],
+  "type": "Small monstrous humanoid"
+}

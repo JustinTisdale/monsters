@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Zombie, Kobold",
+  "tags": [
+    "Small undead"
+  ],
+  "type": "Small undead"
+}

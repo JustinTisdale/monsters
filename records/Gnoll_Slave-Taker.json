@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "3",
+  "environment": [
+    "Warm Forests",
+    "Hills",
+    "Plains"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98688.jpg",
+  "name": "Gnoll Slave-Taker",
+  "tags": [
+    "Medium humanoid"
+  ],
+  "type": "Medium humanoid"
+}

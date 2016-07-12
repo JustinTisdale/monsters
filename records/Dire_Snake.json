@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Temperate",
+    "Warm Aquatic",
+    "Land",
+    "Underground"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Dire Snake",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

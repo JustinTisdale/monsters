@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG204.jpg",
+  "name": "Otyugh",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

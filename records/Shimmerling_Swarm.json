@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "8",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83050.jpg",
+  "name": "Shimmerling Swarm",
+  "tags": [
+    "Swarm"
+  ],
+  "type": "Fine fey"
+}

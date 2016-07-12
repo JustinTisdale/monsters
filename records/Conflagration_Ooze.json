@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82977.jpg",
+  "name": "Conflagration Ooze",
+  "tags": [
+    "Fire"
+  ],
+  "type": "Large ooze"
+}

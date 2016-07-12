@@ -1,0 +1,16 @@
+{
+  "alignement": "NG",
+  "challengeRating": "12",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "9",
+  "homePlane": "Elysium",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75115.jpg",
+  "name": "Moon Dog",
+  "tags": [
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

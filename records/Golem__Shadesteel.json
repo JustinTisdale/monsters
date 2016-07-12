@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "18",
+  "homePlane": "Shadow",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83002.jpg",
+  "name": "Golem, Shadesteel",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium construct"
+}

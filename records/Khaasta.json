@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Outlands",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50101.jpg",
+  "name": "Khaasta",
+  "tags": [
+    "Extraplanar",
+    "Reptilian"
+  ],
+  "type": "Medium monstrous humanoid"
+}

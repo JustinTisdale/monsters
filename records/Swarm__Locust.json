@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Swarm, Locust",
+  "tags": [
+    "Swarm"
+  ],
+  "type": "Diminutive vermin"
+}

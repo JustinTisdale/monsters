@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Warm Forests",
+    "Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG263.jpg",
+  "name": "Yuan-Ti, Pureblood",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

@@ -1,0 +1,18 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Cold Deserts",
+    "Mountains",
+    "Plains"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Whitespawn Hunter (Spawn of Tiamat)",
+  "tags": [
+    "Cold",
+    "Dragonblood"
+  ],
+  "type": "Medium monstrous humanoid"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "17",
+  "environment": [
+    "Any Aquatic",
+    "Mountains",
+    "Underground"
+  ],
+  "hitDice": "22",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50104.jpg",
+  "name": "Lucent Worm",
+  "tags": [
+    "Gargantuan magical beast"
+  ],
+  "type": "Gargantuan magical beast"
+}

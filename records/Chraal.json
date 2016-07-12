@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "9",
+  "homePlane": "Elemental Water",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82975.jpg",
+  "name": "Chraal",
+  "tags": [
+    "Cold"
+  ],
+  "type": "Large elemental"
+}

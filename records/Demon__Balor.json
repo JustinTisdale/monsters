@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "20",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "20",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG41.jpg",
+  "name": "Demon: Balor",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

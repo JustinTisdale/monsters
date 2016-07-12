@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "9",
+  "environment": [
+    "Any Deserts",
+    "Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_41.jpg",
+  "name": "Dune Stalker",
+  "tags": [
+    "Earth",
+    "Evil"
+  ],
+  "type": "Medium outsider"
+}

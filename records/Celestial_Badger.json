@@ -1,0 +1,15 @@
+{
+  "alignement": "CG",
+  "challengeRating": "<1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "1",
+  "homePlane": "Celestia",
+  "image": null,
+  "name": "Celestial Badger",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Small magical beast"
+}

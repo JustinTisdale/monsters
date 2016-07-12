@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50178.jpg",
+  "name": "Bloodbloater",
+  "tags": [
+    "Aquatic",
+    "Swarm"
+  ],
+  "type": "Medium ooze"
+}

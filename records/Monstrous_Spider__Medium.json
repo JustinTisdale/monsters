@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Monstrous Spider, Medium",
+  "tags": [
+    "Medium vermin"
+  ],
+  "type": "Medium vermin"
+}

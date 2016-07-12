@@ -1,0 +1,15 @@
+{
+  "alignement": "LN",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "9",
+  "homePlane": "Acheron",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82539.jpg",
+  "name": "Axiomatic Dragonne",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large magical beast"
+}

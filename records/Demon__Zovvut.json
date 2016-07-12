@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "9",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_26.jpg",
+  "name": "Demon: Zovvut",
+  "tags": [
+    "Chaotic",
+    "Evil"
+  ],
+  "type": "Medium outsider"
+}

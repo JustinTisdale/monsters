@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "16",
+  "homePlane": "Elemental Water",
+  "image": null,
+  "name": "Elemental, Water, Huge",
+  "tags": [
+    "Extraplanar",
+    "Water"
+  ],
+  "type": "Huge elemental"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Elemental Air",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82987.jpg",
+  "name": "Elemental, Storm, Small",
+  "tags": [
+    "Air",
+    "Extraplanar"
+  ],
+  "type": "Small elemental"
+}

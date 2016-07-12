@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "8",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Kython Impaler",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

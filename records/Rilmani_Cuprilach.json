@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Outlands",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50089.jpg",
+  "name": "Rilmani Cuprilach",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

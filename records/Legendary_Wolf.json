@@ -1,0 +1,19 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Any Forests",
+    "Hills",
+    "Mountains",
+    "Plains",
+    "Underground"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Legendary Wolf",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

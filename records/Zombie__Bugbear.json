@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Mountains"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Zombie, Bugbear",
+  "tags": [
+    "Medium undead"
+  ],
+  "type": "Medium undead"
+}

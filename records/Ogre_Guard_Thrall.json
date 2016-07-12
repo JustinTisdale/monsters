@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Temperate Hills",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98705.jpg",
+  "name": "Ogre Guard Thrall",
+  "tags": [
+    "Large giant"
+  ],
+  "type": "Large giant"
+}

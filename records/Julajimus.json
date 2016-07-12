@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "12",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_76.jpg",
+  "name": "Julajimus",
+  "tags": [
+    "Huge aberration"
+  ],
+  "type": "Huge aberration"
+}

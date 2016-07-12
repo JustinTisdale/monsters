@@ -1,0 +1,18 @@
+{
+  "alignement": "NE",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate",
+    "Warm Deserts",
+    "Mountains",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG81.jpg",
+  "name": "Stinger",
+  "tags": [
+    "Large monstrous humanoid"
+  ],
+  "type": "Large monstrous humanoid"
+}

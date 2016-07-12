@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "15",
+  "environment": [
+    "Temperate Mountains"
+  ],
+  "hitDice": "25",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82993.jpg",
+  "name": "Giant, Eldritch",
+  "tags": [
+    "Huge giant"
+  ],
+  "type": "Huge giant"
+}

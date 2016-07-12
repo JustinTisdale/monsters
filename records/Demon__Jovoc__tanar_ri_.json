@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_26.jpg",
+  "name": "Demon: Jovoc (tanar'ri)",
+  "tags": [
+    "Chaotic",
+    "Evil"
+  ],
+  "type": "Small outsider"
+}

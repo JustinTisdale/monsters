@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "14",
+  "environment": [
+    "Warm Deserts",
+    "Plains"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50179.jpg",
+  "name": "Sunwyrm",
+  "tags": [
+    "Large dragon"
+  ],
+  "type": "Large dragon"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83057.jpg",
+  "name": "Splinterwaif",
+  "tags": [
+    "Medium fey"
+  ],
+  "type": "Medium fey"
+}

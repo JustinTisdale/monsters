@@ -1,0 +1,16 @@
+{
+  "alignement": "CG",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "7",
+  "homePlane": "Elemental Air",
+  "image": null,
+  "name": "Genie, Djinni (noble)",
+  "tags": [
+    "Air",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "10",
+  "environment": [
+    "Warm Deserts"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82994.jpg",
+  "name": "Giant, Sand",
+  "tags": [
+    "Earth",
+    "Fire"
+  ],
+  "type": "Large giant"
+}

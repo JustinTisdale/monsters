@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Locust Swarm, Rapture",
+  "tags": [
+    "Swarm"
+  ],
+  "type": "Medium vermin"
+}

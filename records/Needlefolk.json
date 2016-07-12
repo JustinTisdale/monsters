@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Any Forests"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_91.jpg",
+  "name": "Needlefolk",
+  "tags": [
+    "Medium plant"
+  ],
+  "type": "Medium plant"
+}

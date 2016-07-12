@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "20",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84759.jpg",
+  "name": "Hulking Corpse",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

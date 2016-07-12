@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82549.jpg",
+  "name": "Xor-yost (Energon)",
+  "tags": [
+    "Cold",
+    "Extraplanar",
+    "Incorporeal"
+  ],
+  "type": "Medium outsider"
+}

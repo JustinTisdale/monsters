@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Dog, Riding",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

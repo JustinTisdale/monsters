@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83012.jpg",
+  "name": "Skindancer",
+  "tags": [
+    "Large monstrous humanoid"
+  ],
+  "type": "Large monstrous humanoid"
+}

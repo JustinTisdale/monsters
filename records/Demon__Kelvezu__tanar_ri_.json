@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "18",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_27.jpg",
+  "name": "Demon: Kelvezu (tanar'ri)",
+  "tags": [
+    "Chaotic",
+    "Evil"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG186.jpg",
+  "name": "Mimic",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Large aberration"
+}

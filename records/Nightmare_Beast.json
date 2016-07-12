@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "15",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_94.jpg",
+  "name": "Nightmare Beast",
+  "tags": [
+    "Huge magical beast"
+  ],
+  "type": "Huge magical beast"
+}

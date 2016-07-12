@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "16",
+  "environment": [
+    "Temperate Deserts"
+  ],
+  "hitDice": "23",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82992.jpg",
+  "name": "Giant, Death",
+  "tags": [
+    "Huge giant"
+  ],
+  "type": "Huge giant"
+}

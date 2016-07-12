@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Monstrous Centipede, Huge",
+  "tags": [
+    "Huge vermin"
+  ],
+  "type": "Huge vermin"
+}

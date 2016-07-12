@@ -1,0 +1,15 @@
+{
+  "alignement": "LG",
+  "challengeRating": "8",
+  "environment": [
+    "Temperate Deserts"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG165.jpg",
+  "name": "Lammasu",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

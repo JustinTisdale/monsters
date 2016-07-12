@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG201.jpg",
+  "name": "Gelatinous Cube",
+  "tags": [
+    "Large ooze"
+  ],
+  "type": "Large ooze"
+}

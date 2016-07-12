@@ -1,0 +1,17 @@
+{
+  "alignement": "CG",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "9",
+  "homePlane": "Ysgard",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75101.jpg",
+  "name": "Bariaur Defender Of Ysgard (ranger 6)",
+  "tags": [
+    "Chaotic",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Large outsider"
+}

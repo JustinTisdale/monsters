@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Cold Mountains"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83054.jpg",
+  "name": "Snowflake Ooze",
+  "tags": [
+    "Cold"
+  ],
+  "type": "Medium ooze"
+}

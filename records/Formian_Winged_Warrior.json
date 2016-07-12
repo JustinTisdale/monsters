@@ -1,0 +1,17 @@
+{
+  "alignement": "LN",
+  "challengeRating": "6",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Mechanus",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50111.jpg",
+  "name": "Formian Winged Warrior",
+  "tags": [
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

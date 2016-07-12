@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "1",
+  "homePlane": "Negative Energy",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50087.jpg",
+  "name": "Nerra Varoot",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

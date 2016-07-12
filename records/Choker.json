@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "2",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG35a.jpg",
+  "name": "Choker",
+  "tags": [
+    "Small aberration"
+  ],
+  "type": "Small aberration"
+}

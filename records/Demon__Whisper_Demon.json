@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98680.jpg",
+  "name": "Demon: Whisper Demon",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

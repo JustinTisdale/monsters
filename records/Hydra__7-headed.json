@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG156.jpg",
+  "name": "Hydra, 7-headed",
+  "tags": [
+    "Huge magical beast"
+  ],
+  "type": "Huge magical beast"
+}

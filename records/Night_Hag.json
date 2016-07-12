@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Any Evil",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG193.jpg",
+  "name": "Night Hag",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Elemental Air",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG161a.jpg",
+  "name": "Invisible Stalker",
+  "tags": [
+    "Air",
+    "Extraplanar"
+  ],
+  "type": "Large elemental"
+}

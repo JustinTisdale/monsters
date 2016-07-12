@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "7",
+  "homePlane": "Elemental Fire",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82547.jpg",
+  "name": "Elementite Swarm, Fire",
+  "tags": [
+    "Extraplanar",
+    "Fire",
+    "Swarm"
+  ],
+  "type": "Tiny elemental"
+}

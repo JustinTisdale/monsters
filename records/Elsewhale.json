@@ -1,0 +1,15 @@
+{
+  "alignement": "NG",
+  "challengeRating": "7",
+  "environment": [
+    "Temperate Aquatic"
+  ],
+  "hitDice": "12",
+  "homePlane": "",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82554.jpg",
+  "name": "Elsewhale",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Gargantuan magical beast"
+}

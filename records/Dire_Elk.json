@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Cold",
+    "Temperate Forests",
+    "Hills",
+    "Mountains"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_34b.jpg",
+  "name": "Dire Elk",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

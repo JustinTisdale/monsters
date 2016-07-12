@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Cold Hills"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88139.jpg",
+  "name": "Gas Spore",
+  "tags": [
+    "Large plant"
+  ],
+  "type": "Large plant"
+}

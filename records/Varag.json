@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "1",
+  "environment": [
+    "Warm Hills"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98729.jpg",
+  "name": "Varag",
+  "tags": [
+    "Goblinoid"
+  ],
+  "type": "Medium humanoid"
+}

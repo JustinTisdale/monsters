@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "3",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50108.jpg",
+  "name": "Dark Creeper",
+  "tags": [
+    "Small humanoid"
+  ],
+  "type": "Small humanoid"
+}

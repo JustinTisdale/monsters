@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Monstrous Centipede, Gargantuan",
+  "tags": [
+    "Gargantuan vermin"
+  ],
+  "type": "Gargantuan vermin"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Warm Deserts"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Camel",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

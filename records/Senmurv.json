@@ -1,0 +1,16 @@
+{
+  "alignement": "LG",
+  "challengeRating": "3",
+  "environment": [
+    "Any Forests",
+    "Mountains"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50102.jpg",
+  "name": "Senmurv",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

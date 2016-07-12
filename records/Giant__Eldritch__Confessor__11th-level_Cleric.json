@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "20",
+  "environment": [
+    "Temperate Mountains"
+  ],
+  "hitDice": "36",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82993.jpg",
+  "name": "Giant, Eldritch, Confessor, 11th-level Cleric",
+  "tags": [
+    "Huge giant"
+  ],
+  "type": "Huge giant"
+}

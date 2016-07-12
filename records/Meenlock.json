@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Forests",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_83.jpg",
+  "name": "Meenlock",
+  "tags": [
+    "Tiny aberration"
+  ],
+  "type": "Tiny aberration"
+}

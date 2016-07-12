@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Mountains"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG29.jpg",
+  "name": "Bugbear",
+  "tags": [
+    "Goblinoid"
+  ],
+  "type": "Medium humanoid"
+}

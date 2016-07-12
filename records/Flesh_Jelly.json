@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "19",
+  "environment": [
+    "Warm Forests",
+    "Marshes",
+    "Plains"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_54.jpg",
+  "name": "Flesh Jelly",
+  "tags": [
+    "Gargantuan ooze"
+  ],
+  "type": "Gargantuan ooze"
+}

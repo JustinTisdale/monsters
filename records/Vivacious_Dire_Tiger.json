@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "16",
+  "homePlane": "Positive Energy",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82552.jpg",
+  "name": "Vivacious Dire Tiger",
+  "tags": [
+    "Augmented animal",
+    "Extraplanar",
+    "Incorporeal"
+  ],
+  "type": "Large outsider"
+}

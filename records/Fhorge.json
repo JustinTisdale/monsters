@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Temperate",
+    "Warm Forests"
+  ],
+  "hitDice": "12",
+  "homePlane": "Outlands",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50084.jpg",
+  "name": "Fhorge",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large animal"
+}

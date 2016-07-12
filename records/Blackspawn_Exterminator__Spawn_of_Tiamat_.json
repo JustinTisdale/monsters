@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "10",
+  "environment": [
+    "Warm Marshes"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Blackspawn Exterminator (Spawn of Tiamat)",
+  "tags": [
+    "Dragonblood"
+  ],
+  "type": "Medium monstrous humanoid"
+}

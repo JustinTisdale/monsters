@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "6",
+  "environment": [
+    "Cold Hills"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Gauth (Beholder)",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

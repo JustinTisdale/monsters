@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "14",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "20",
+  "homePlane": "Carceri",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83028.jpg",
+  "name": "Odopi",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Huge aberration"
+}

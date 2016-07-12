@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Cold Aquatic"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Reekmurk",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Huge ooze"
+}

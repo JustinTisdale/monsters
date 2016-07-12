@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG126.jpg",
+  "name": "Gibbering Mouther",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

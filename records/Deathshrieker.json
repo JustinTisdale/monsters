@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "15",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82979.jpg",
+  "name": "Deathshrieker",
+  "tags": [
+    "Incorporeal"
+  ],
+  "type": "Medium undead"
+}

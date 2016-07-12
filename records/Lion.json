@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Warm Plains"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Lion",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

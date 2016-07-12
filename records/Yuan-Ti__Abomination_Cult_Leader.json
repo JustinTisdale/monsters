@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "9",
+  "environment": [
+    "Warm Forests",
+    "Underground"
+  ],
+  "hitDice": "13",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98735.jpg",
+  "name": "Yuan-Ti, Abomination Cult Leader",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

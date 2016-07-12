@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "9",
+  "environment": [
+    "Cold Hills",
+    "Plains"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84735.jpg",
+  "name": "Blaspheme",
+  "tags": [
+    "Medium undead"
+  ],
+  "type": "Medium undead"
+}

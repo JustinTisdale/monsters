@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Mountains"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83070.jpg",
+  "name": "Troll, Mountain",
+  "tags": [
+    "Huge giant"
+  ],
+  "type": "Huge giant"
+}

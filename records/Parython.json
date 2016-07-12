@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Temperate Forests",
+    "Hills",
+    "Mountains"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Parython",
+  "tags": [
+    "Medium magical beast"
+  ],
+  "type": "Medium magical beast"
+}

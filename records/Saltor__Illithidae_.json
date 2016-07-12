@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88145.jpg",
+  "name": "Saltor (Illithidae)",
+  "tags": [
+    "Small aberration"
+  ],
+  "type": "Small aberration"
+}

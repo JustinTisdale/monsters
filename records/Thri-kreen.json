@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate",
+    "Warm Deserts"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_121.jpg",
+  "name": "Thri-kreen",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "8",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83046.jpg",
+  "name": "Mummy, Salt",
+  "tags": [
+    "Medium undead"
+  ],
+  "type": "Medium undead"
+}

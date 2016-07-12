@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98673.jpg",
+  "name": "Clockwork Pony",
+  "tags": [
+    "Medium construct"
+  ],
+  "type": "Medium construct"
+}

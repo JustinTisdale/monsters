@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "13",
+  "environment": [
+    "Cold Hills"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG26.jpg",
+  "name": "Beholder",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

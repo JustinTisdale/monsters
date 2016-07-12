@@ -1,0 +1,16 @@
+{
+  "alignement": "NG",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate",
+    "Warm Mountains"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG11.jpg",
+  "name": "Aarakocra",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

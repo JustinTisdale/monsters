@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Cold Aquatic"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Dire Shark",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Huge animal"
+}

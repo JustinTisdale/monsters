@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Flotsam Ooze",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium ooze"
+}

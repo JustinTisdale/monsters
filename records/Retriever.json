@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG47.jpg",
+  "name": "Retriever",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Huge construct"
+}

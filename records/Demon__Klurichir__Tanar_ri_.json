@@ -1,0 +1,18 @@
+{
+  "alignement": "CE",
+  "challengeRating": "25",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "20",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50117.jpg",
+  "name": "Demon: Klurichir (Tanar'ri)",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Huge outsider"
+}

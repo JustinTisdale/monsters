@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Hades",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82542.jpg",
+  "name": "Pack Fiend",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large magical beast"
+}

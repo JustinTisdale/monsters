@@ -1,0 +1,18 @@
+{
+  "alignement": "LE",
+  "challengeRating": "22",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "18",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50144.jpg",
+  "name": "Devil: Paeliryon (Baatezu)",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Huge outsider"
+}

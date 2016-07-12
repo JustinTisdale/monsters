@@ -1,0 +1,16 @@
+{
+  "alignement": "NG",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Elysium",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75111.jpg",
+  "name": "Guardinal: Musteval",
+  "tags": [
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Tiny outsider"
+}

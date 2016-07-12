@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "1",
+  "environment": [
+    "Warm Land"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_2.jpg",
+  "name": "Ash Rat",
+  "tags": [
+    "Fire"
+  ],
+  "type": "Small magical beast"
+}

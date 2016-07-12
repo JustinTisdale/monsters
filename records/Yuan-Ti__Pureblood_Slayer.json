@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "10",
+  "environment": [
+    "Warm Forests",
+    "Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98735.jpg",
+  "name": "Yuan-Ti, Pureblood Slayer",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

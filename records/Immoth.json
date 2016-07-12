@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Cold Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Elemental Air, Elemental Water",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_72.jpg",
+  "name": "Immoth",
+  "tags": [
+    "Air",
+    "Cold",
+    "Extraplanar",
+    "Water"
+  ],
+  "type": "Large elemental"
+}

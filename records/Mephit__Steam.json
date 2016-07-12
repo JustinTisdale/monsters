@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Elemental Fire",
+  "image": null,
+  "name": "Mephit, Steam",
+  "tags": [
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Small outsider"
+}

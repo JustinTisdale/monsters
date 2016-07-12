@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG112.jpg",
+  "name": "Fungus, Violet",
+  "tags": [
+    "Medium plant"
+  ],
+  "type": "Medium plant"
+}

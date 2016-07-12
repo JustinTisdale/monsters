@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Monstrous Spider, Huge",
+  "tags": [
+    "Huge vermin"
+  ],
+  "type": "Huge vermin"
+}

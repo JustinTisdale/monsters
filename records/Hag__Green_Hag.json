@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG143.jpg",
+  "name": "Hag: Green Hag",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

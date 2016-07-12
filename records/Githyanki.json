@@ -1,0 +1,15 @@
+{
+  "alignement": "E",
+  "challengeRating": "1",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "1",
+  "homePlane": "Astral, Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG128.jpg",
+  "name": "Githyanki",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium humanoid"
+}

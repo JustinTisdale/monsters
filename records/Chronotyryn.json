@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "19",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "17",
+  "homePlane": "Acheron",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50132.jpg",
+  "name": "Chronotyryn",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large magical beast"
+}

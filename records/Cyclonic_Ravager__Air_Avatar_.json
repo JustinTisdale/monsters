@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "15",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "26",
+  "homePlane": "Elemental Air",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98664.jpg",
+  "name": "Cyclonic Ravager (Air Avatar)",
+  "tags": [
+    "Air",
+    "Extraplanar"
+  ],
+  "type": "Large elemental"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "13",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "14",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG51.jpg",
+  "name": "Devil: Ice Devil (gelugon)",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "1",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98706.jpg",
+  "name": "Orc Battle Priest",
+  "tags": [
+    "Medium humanoid"
+  ],
+  "type": "Medium humanoid"
+}

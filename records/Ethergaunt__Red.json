@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "9",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Ethereal",
+  "image": null,
+  "name": "Ethergaunt, Red",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium aberration"
+}

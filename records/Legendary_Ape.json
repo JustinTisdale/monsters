@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Warm Forests",
+    "Mountains",
+    "Underground"
+  ],
+  "hitDice": "13",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_78.jpg",
+  "name": "Legendary Ape",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

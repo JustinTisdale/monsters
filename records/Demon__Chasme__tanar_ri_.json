@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Demon: Chasme (tanar'ri)",
+  "tags": [
+    "Chaotic",
+    "Evil"
+  ],
+  "type": "Large outsider"
+}

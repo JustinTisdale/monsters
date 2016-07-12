@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "20",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "18",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG57.jpg",
+  "name": "Devil: Pit Fiend",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Kython Slaymaster",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

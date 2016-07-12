@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate",
+    "Warm Forests",
+    "Marshes"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98721.jpg",
+  "name": "Greenspawn Sneak (Spawn of Tiamat)",
+  "tags": [
+    "Dragonblood"
+  ],
+  "type": "Small monstrous humanoid"
+}

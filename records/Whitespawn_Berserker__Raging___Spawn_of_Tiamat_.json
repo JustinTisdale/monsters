@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "6",
+  "environment": [
+    "Cold Land"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98725.jpg",
+  "name": "Whitespawn Berserker (Raging) (Spawn of Tiamat)",
+  "tags": [
+    "Cold",
+    "Dragonblood"
+  ],
+  "type": "Medium monstrous humanoid"
+}

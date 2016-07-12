@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "2",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83075.jpg",
+  "name": "Voidmind Grimlock",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

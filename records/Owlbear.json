@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG206.jpg",
+  "name": "Owlbear",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

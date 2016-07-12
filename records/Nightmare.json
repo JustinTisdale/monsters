@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Any Evil",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG195.jpg",
+  "name": "Nightmare",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

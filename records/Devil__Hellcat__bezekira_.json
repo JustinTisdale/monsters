@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG55.jpg",
+  "name": "Devil: Hellcat (bezekira)",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

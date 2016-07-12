@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "1",
+  "homePlane": "Ethereal",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_45.jpg",
+  "name": "Ether Scarab",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Tiny outsider"
+}

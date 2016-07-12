@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "5",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83036.jpg",
+  "name": "Quaraphon",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

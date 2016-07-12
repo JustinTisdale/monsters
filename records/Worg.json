@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG257.jpg",
+  "name": "Worg",
+  "tags": [
+    "Medium magical beast"
+  ],
+  "type": "Medium magical beast"
+}

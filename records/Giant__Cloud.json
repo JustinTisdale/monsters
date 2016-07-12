@@ -1,0 +1,15 @@
+{
+  "alignement": "NG, NE",
+  "challengeRating": "11",
+  "environment": [
+    "Temperate Mountains"
+  ],
+  "hitDice": "17",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG123.jpg",
+  "name": "Giant, Cloud",
+  "tags": [
+    "Air"
+  ],
+  "type": "Huge giant"
+}

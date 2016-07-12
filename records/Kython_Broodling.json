@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "1",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Kython Broodling",
+  "tags": [
+    "Small aberration"
+  ],
+  "type": "Small aberration"
+}

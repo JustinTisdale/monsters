@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "18",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "30",
+  "homePlane": "Carceri",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83028.jpg",
+  "name": "Odopi, Elder",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Gargantuan aberration"
+}

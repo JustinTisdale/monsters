@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Warm Deserts"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Hyena",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

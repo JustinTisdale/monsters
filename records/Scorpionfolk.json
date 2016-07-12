@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "7",
+  "environment": [
+    "Warm Deserts",
+    "Hills",
+    "Plains"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_111.jpg",
+  "name": "Scorpionfolk",
+  "tags": [
+    "Large monstrous humanoid"
+  ],
+  "type": "Large monstrous humanoid"
+}

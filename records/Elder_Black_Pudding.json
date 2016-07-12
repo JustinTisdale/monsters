@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "20",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Elder Black Pudding",
+  "tags": [
+    "Gargantuan ooze"
+  ],
+  "type": "Gargantuan ooze"
+}

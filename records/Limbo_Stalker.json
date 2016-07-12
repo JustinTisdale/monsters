@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Limbo",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82546.jpg",
+  "name": "Limbo Stalker",
+  "tags": [
+    "Chaotic",
+    "Extraplanar"
+  ],
+  "type": "Large magical beast"
+}

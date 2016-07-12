@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Ethereal",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG105.jpg",
+  "name": "Ethereal Marauder",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium magical beast"
+}

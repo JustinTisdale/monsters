@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Temperate",
+    "Warm Aquatic",
+    "Land",
+    "Underground"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Legendary Snake",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

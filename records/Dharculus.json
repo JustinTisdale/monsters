@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Ethereal",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82535.jpg",
+  "name": "Dharculus",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium aberration"
+}

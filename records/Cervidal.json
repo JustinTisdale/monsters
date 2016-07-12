@@ -1,0 +1,15 @@
+{
+  "alignement": "NG",
+  "challengeRating": "3",
+  "environment": [
+    "Any Forests"
+  ],
+  "hitDice": "4",
+  "homePlane": "Elysium",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_15.jpg",
+  "name": "Cervidal",
+  "tags": [
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

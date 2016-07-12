@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Warhorse, Heavy",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Legendary Horse",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

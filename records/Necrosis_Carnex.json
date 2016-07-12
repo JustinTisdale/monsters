@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98703.jpg",
+  "name": "Necrosis Carnex",
+  "tags": [
+    "Medium undead"
+  ],
+  "type": "Medium undead"
+}

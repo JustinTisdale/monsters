@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_88.jpg",
+  "name": "Morkoth",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium aberration"
+}

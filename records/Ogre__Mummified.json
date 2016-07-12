@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Deserts",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "https://www.wizards.com/dnd/images/libris_gallery/49109.jpg",
+  "name": "Ogre, Mummified",
+  "tags": [
+    "Augmented giant"
+  ],
+  "type": "Large undead"
+}

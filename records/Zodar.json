@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "16",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": "https://www.wizards.com/dnd/images/mm2_gallery/88268_620_163.jpg",
+  "name": "Zodar",
+  "tags": [
+    "Medium construct"
+  ],
+  "type": "Medium construct"
+}

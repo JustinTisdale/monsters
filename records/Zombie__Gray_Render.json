@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "6",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "20",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Zombie, Gray Render",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

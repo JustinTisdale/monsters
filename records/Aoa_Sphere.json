@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "15",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "13",
+  "homePlane": "Astral, Ethereal",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50114.jpg",
+  "name": "Aoa Sphere",
+  "tags": [
+    "Huge outsider"
+  ],
+  "type": "Huge outsider"
+}

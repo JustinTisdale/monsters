@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Golem, Thayan",
+  "tags": [
+    "Medium construct"
+  ],
+  "type": "Medium construct"
+}

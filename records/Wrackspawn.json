@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "4",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98734.jpg",
+  "name": "Wrackspawn",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

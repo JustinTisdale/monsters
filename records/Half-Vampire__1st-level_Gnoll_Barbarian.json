@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "3",
+  "environment": [
+    "Warm Plains"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84757.jpg",
+  "name": "Half-Vampire, 1st-level Gnoll Barbarian",
+  "tags": [
+    "Medium humanoid"
+  ],
+  "type": "Medium humanoid"
+}

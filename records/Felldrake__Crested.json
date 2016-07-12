@@ -1,0 +1,16 @@
+{
+  "alignement": "NG",
+  "challengeRating": "1",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_49.jpg",
+  "name": "Felldrake, Crested",
+  "tags": [
+    "Small dragon"
+  ],
+  "type": "Small dragon"
+}

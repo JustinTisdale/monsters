@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG139.jpg",
+  "name": "Grick",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

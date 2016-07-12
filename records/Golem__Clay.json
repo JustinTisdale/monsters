@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Golem, Clay",
+  "tags": [
+    "Large construct"
+  ],
+  "type": "Large construct"
+}

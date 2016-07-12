@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "4",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG31.jpg",
+  "name": "Darkenbeast",
+  "tags": [
+    "Medium magical beast"
+  ],
+  "type": "Medium magical beast"
+}

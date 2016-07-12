@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Monstrous Spider, Gargantuan",
+  "tags": [
+    "Gargantuan vermin"
+  ],
+  "type": "Gargantuan vermin"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "11",
+  "environment": [
+    "Temperate",
+    "Warm Land",
+    "Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_",
+  "name": "Naga: Bone Naga",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

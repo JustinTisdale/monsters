@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "<1",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "0",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_74.jpg",
+  "name": "Jermlaine",
+  "tags": [
+    "Tiny fey"
+  ],
+  "type": "Tiny fey"
+}

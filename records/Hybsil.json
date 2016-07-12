@@ -1,0 +1,16 @@
+{
+  "alignement": "NG",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Forests",
+    "Plains"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG61.jpg",
+  "name": "Hybsil",
+  "tags": [
+    "Small fey"
+  ],
+  "type": "Small fey"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Temperate",
+    "Warm Forests",
+    "Mountains"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_106.jpg",
+  "name": "Razor Boar",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

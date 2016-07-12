@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "13",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_27.jpg",
+  "name": "Demon: Jarilith (tanar'ri)",
+  "tags": [
+    "Chaotic",
+    "Evil"
+  ],
+  "type": "Large outsider"
+}

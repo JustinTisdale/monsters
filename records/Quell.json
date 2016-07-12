@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84765.jpg",
+  "name": "Quell",
+  "tags": [
+    "Incorporeal"
+  ],
+  "type": "Medium undead"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "15",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "29",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Slaughterstone Behemoth",
+  "tags": [
+    "Earth"
+  ],
+  "type": "Huge construct"
+}

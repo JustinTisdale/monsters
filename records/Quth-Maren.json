@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.dungeons-and-dragons.de/drachengriff/quthmaren.jpg",
+  "name": "Quth-Maren",
+  "tags": [
+    "Medium undead"
+  ],
+  "type": "Medium undead"
+}

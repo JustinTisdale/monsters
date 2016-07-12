@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "8",
+  "environment": [
+    "Cold Hills"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG200.jpg",
+  "name": "Ogre Mage",
+  "tags": [
+    "Large giant"
+  ],
+  "type": "Large giant"
+}

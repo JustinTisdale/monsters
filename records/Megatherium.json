@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Any Forests",
+    "Hills",
+    "Plains"
+  ],
+  "hitDice": "13",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50113.jpg",
+  "name": "Megatherium",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

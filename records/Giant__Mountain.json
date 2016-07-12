@@ -1,0 +1,15 @@
+{
+  "alignement": "C",
+  "challengeRating": "26",
+  "environment": [
+    "Any Mountains"
+  ],
+  "hitDice": "30",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_60a.jpg",
+  "name": "Giant, Mountain",
+  "tags": [
+    "Earth"
+  ],
+  "type": "Colossal giant"
+}

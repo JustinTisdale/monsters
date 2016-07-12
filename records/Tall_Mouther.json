@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Any Forests",
+    "Hills",
+    "Mountains",
+    "Underground"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG82.jpg",
+  "name": "Tall Mouther",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

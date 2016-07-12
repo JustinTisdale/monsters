@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88141.jpg",
+  "name": "Golem, Shaboath",
+  "tags": [
+    "Cold"
+  ],
+  "type": "Large construct"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/49122.jpg",
+  "name": "Ghost Brute Hound",
+  "tags": [
+    "Augmented animal",
+    "Incorporeal"
+  ],
+  "type": "Medium undead"
+}

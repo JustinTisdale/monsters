@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Arborea",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82538.jpg",
+  "name": "Satyr, Anarchic",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium fey"
+}

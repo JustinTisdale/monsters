@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "17",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "20",
+  "homePlane": "Mechanus",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG108.jpg",
+  "name": "Formian Queen",
+  "tags": [
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

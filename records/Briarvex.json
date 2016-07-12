@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "6",
+  "environment": [
+    "Any Forests"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98670.jpg",
+  "name": "Briarvex",
+  "tags": [
+    "Large plant"
+  ],
+  "type": "Large plant"
+}

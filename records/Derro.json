@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Derro",
+  "tags": [
+    "Small monstrous humanoid"
+  ],
+  "type": "Small monstrous humanoid"
+}

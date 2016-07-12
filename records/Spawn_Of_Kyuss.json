@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_114.jpg",
+  "name": "Spawn Of Kyuss",
+  "tags": [
+    "Medium undead"
+  ],
+  "type": "Medium undead"
+}

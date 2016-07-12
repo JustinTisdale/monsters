@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Pandemonium",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98731.jpg",
+  "name": "Windrazor (Windblade)",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Small outsider"
+}

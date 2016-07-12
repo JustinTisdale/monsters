@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG43.jpg",
+  "name": "Demon: Dretch",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Small outsider"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG62.jpg",
+  "name": "Ibrandlin",
+  "tags": [
+    "Fire"
+  ],
+  "type": "Gargantuan dragon"
+}

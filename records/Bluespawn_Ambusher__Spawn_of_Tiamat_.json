@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "4",
+  "environment": [
+    "Warm Deserts"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98714.jpg",
+  "name": "Bluespawn Ambusher (Spawn of Tiamat)",
+  "tags": [
+    "Dragonblood"
+  ],
+  "type": "Medium magical beast"
+}

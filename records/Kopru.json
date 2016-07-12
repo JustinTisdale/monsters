@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "6",
+  "environment": [
+    "Warm Aquatic",
+    "Marshes"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_77.jpg",
+  "name": "Kopru",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium monstrous humanoid"
+}

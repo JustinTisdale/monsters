@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83083.jpg",
+  "name": "Wood Woad",
+  "tags": [
+    "Medium plant"
+  ],
+  "type": "Medium plant"
+}

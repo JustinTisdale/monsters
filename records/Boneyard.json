@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "14",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "17",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84740.jpg",
+  "name": "Boneyard",
+  "tags": [
+    "Huge undead"
+  ],
+  "type": "Huge undead"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Limbo",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG230.jpg",
+  "name": "Slaad, Gray",
+  "tags": [
+    "Chaotic",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

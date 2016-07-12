@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82980.jpg",
+  "name": "Demon: Arrow Demon (Tanar'ri)",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

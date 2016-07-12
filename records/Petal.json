@@ -1,0 +1,15 @@
+{
+  "alignement": "NG",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83032.jpg",
+  "name": "Petal",
+  "tags": [
+    "Tiny fey"
+  ],
+  "type": "Tiny fey"
+}

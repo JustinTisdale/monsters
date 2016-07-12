@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Warm Forests",
+    "Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Yuan-Ti, Abomination",
+  "tags": [
+    "Large monstrous humanoid"
+  ],
+  "type": "Large monstrous humanoid"
+}

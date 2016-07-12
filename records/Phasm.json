@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "7",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG208b.jpg",
+  "name": "Phasm",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium aberration"
+}

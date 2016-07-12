@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Kython, Adult",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

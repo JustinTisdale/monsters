@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "14",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Werewolf Lord (Lycanthrope)",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium humanoid"
+}

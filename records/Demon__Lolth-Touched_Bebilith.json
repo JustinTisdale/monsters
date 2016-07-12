@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98697.jpg",
+  "name": "Demon: Lolth-Touched Bebilith",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Huge outsider"
+}

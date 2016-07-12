@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Warm Land",
+    "Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Viper Swarm",
+  "tags": [
+    "Swarm"
+  ],
+  "type": "Medium animal"
+}

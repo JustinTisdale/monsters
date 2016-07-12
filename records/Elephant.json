@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Warm Plains"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Elephant",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

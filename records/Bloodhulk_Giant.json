@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98668.jpg",
+  "name": "Bloodhulk Giant",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

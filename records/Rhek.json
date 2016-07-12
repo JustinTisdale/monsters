@@ -1,0 +1,15 @@
+{
+  "alignement": "LG",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Arcadia",
+  "image": null,
+  "name": "Rhek",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium monstrous humanoid"
+}

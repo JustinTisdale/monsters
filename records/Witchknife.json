@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Warm Deserts"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82965.jpg",
+  "name": "Witchknife",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

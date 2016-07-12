@@ -1,0 +1,15 @@
+{
+  "alignement": "CG",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG207a.jpg",
+  "name": "Pegasus",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

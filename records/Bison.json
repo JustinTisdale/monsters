@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Bison",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

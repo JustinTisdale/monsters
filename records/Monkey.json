@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Warm Forests"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Monkey",
+  "tags": [
+    "Tiny animal"
+  ],
+  "type": "Tiny animal"
+}

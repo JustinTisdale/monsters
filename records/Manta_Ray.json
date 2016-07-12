@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Warm Aquatic"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Manta Ray",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Large animal"
+}

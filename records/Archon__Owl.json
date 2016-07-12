@@ -1,0 +1,18 @@
+{
+  "alignement": "LG",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Celestia",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75096.jpg",
+  "name": "Archon, Owl",
+  "tags": [
+    "Archon",
+    "Extraplanar",
+    "Good",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

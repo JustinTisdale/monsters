@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "6",
+  "environment": [
+    "Warm Land"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98717.jpg",
+  "name": "Bluespawn Stormlizard (Spawn of Tiamat)",
+  "tags": [
+    "Dragonblood"
+  ],
+  "type": "Large magical beast"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Warm Plains"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG61.jpg",
+  "name": "Dinosaur, Tyrannosaurus",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

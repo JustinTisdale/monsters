@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Deserts"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG16a.jpg",
+  "name": "Asabi",
+  "tags": [
+    "Reptilian"
+  ],
+  "type": "Medium humanoid"
+}

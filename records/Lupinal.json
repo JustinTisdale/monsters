@@ -1,0 +1,17 @@
+{
+  "alignement": "NG",
+  "challengeRating": "5",
+  "environment": [
+    "Any Forests",
+    "Hills",
+    "Plains"
+  ],
+  "hitDice": "8",
+  "homePlane": "Elysium",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_15.jpg",
+  "name": "Lupinal",
+  "tags": [
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

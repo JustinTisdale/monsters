@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Ethereal",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG259b.jpg",
+  "name": "Xill",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

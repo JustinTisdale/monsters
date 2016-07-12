@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "24",
+  "homePlane": "Elemental Air",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82987.jpg",
+  "name": "Elemental, Storm, Elder",
+  "tags": [
+    "Air",
+    "Extraplanar"
+  ],
+  "type": "Huge elemental"
+}

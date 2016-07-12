@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98706.jpg",
+  "name": "Orc Berserker (Raging)",
+  "tags": [
+    "Medium humanoid"
+  ],
+  "type": "Medium humanoid"
+}

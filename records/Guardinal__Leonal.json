@@ -1,0 +1,16 @@
+{
+  "alignement": "NG",
+  "challengeRating": "12",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Elysium",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG142.jpg",
+  "name": "Guardinal: Leonal",
+  "tags": [
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

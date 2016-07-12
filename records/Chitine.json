@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "1",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG26.jpg",
+  "name": "Chitine",
+  "tags": [
+    "Small monstrous humanoid"
+  ],
+  "type": "Small monstrous humanoid"
+}

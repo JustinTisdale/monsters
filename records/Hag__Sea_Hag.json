@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate Aquatic"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Hag: Sea Hag",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium monstrous humanoid"
+}

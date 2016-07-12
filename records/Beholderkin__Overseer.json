@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "15",
+  "environment": [
+    "Cold Hills"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88133.jpg",
+  "name": "Beholderkin, Overseer",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

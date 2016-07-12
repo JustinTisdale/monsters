@@ -1,0 +1,19 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Any Aquatic",
+    "Forests",
+    "Hills",
+    "Plains",
+    "Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_34a.jpg",
+  "name": "Dire Hawk",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "LG",
+  "challengeRating": "10",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50099.jpg",
+  "name": "Shedu",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

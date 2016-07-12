@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98671.jpg",
+  "name": "Clockroach",
+  "tags": [
+    "Small construct"
+  ],
+  "type": "Small construct"
+}

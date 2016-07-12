@@ -1,0 +1,17 @@
+{
+  "alignement": "G",
+  "challengeRating": "12",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Any Upper",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50092.jpg",
+  "name": "Angel, Monadic Deva",
+  "tags": [
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

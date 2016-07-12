@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "20",
+  "environment": [
+    "Warm Deserts"
+  ],
+  "hitDice": "32",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_152.jpg",
+  "name": "Megapede",
+  "tags": [
+    "Colossal vermin"
+  ],
+  "type": "Colossal vermin"
+}

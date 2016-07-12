@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "4",
+  "homePlane": "Mechanus",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG108.jpg",
+  "name": "Formian Warrior",
+  "tags": [
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

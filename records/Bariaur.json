@@ -1,0 +1,17 @@
+{
+  "alignement": "CG",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Ysgard",
+  "image": null,
+  "name": "Bariaur",
+  "tags": [
+    "Chaotic",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Large outsider"
+}

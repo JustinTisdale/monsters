@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Warm Forests"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Tiger",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "6",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98695.jpg",
+  "name": "Lizardfolk: Dark Talon Shaman",
+  "tags": [
+    "Reptilian"
+  ],
+  "type": "Medium humanoid"
+}

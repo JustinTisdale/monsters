@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "15",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_159.jpg",
+  "name": "Tunnel Terror",
+  "tags": [
+    "Huge aberration"
+  ],
+  "type": "Huge aberration"
+}

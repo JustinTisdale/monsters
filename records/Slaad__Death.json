@@ -1,0 +1,16 @@
+{
+  "alignement": "CN, CE",
+  "challengeRating": "13",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "15",
+  "homePlane": "Limbo",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG229.jpg",
+  "name": "Slaad, Death",
+  "tags": [
+    "Chaotic",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

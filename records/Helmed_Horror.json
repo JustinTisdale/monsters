@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "13",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG60.jpg",
+  "name": "Helmed Horror",
+  "tags": [
+    "Medium construct"
+  ],
+  "type": "Medium construct"
+}

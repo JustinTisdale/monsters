@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Elemental Fire",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_53.jpg",
+  "name": "Fire Bat",
+  "tags": [
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Small elemental"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Ant, Giant, Queen",
+  "tags": [
+    "Large vermin"
+  ],
+  "type": "Large vermin"
+}

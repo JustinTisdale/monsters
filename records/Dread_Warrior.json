@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG46.jpg",
+  "name": "Dread Warrior",
+  "tags": [
+    "Medium undead"
+  ],
+  "type": "Medium undead"
+}

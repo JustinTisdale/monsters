@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "7",
+  "homePlane": "Negative Energy",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50087.jpg",
+  "name": "Nerra Sillit",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "15",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "19",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83006.jpg",
+  "name": "Grisgol",
+  "tags": [
+    "Large construct"
+  ],
+  "type": "Large construct"
+}

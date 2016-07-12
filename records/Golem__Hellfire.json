@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "17",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "20",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50078.jpg",
+  "name": "Golem, Hellfire",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large construct"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Temperate",
+    "Warm Deserts"
+  ],
+  "hitDice": "13",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_60b.jpg",
+  "name": "Giant, Sun",
+  "tags": [
+    "Fire"
+  ],
+  "type": "Huge giant"
+}

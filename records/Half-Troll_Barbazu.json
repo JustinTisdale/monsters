@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "9",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50079.jpg",
+  "name": "Half-Troll Barbazu",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium giant"
+}

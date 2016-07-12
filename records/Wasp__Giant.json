@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Wasp, Giant",
+  "tags": [
+    "Large vermin"
+  ],
+  "type": "Large vermin"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "13",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "16",
+  "homePlane": "Elemental Fire",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82976.jpg",
+  "name": "Cinder Swarm",
+  "tags": [
+    "Fire",
+    "Swarm"
+  ],
+  "type": "Fine elemental"
+}

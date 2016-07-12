@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "2",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50172.jpg",
+  "name": "Skulk",
+  "tags": [
+    "Medium humanoid"
+  ],
+  "type": "Medium humanoid"
+}

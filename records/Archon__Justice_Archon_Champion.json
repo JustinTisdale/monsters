@@ -1,0 +1,18 @@
+{
+  "alignement": "LG",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Celestia",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98693.jpg",
+  "name": "Archon: Justice Archon Champion",
+  "tags": [
+    "Archon",
+    "Extraplanar",
+    "Good",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

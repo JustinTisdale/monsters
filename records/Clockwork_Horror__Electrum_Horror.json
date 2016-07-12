@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "4",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_19.jpg",
+  "name": "Clockwork Horror: Electrum Horror",
+  "tags": [
+    "Small construct"
+  ],
+  "type": "Small construct"
+}

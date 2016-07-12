@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Any Marshes"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_147.jpg",
+  "name": "Darktentacles",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate",
+    "Warm Land"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_99.jpg",
+  "name": "Phase Wasp",
+  "tags": [
+    "Tiny magical beast"
+  ],
+  "type": "Tiny magical beast"
+}

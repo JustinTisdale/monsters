@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "14",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "14",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG45.jpg",
+  "name": "Demon: Nalfeshnee",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Huge outsider"
+}

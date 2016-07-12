@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "12",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Blighted Bloodfire",
+  "tags": [
+    "Augmented ooze",
+    "Fire"
+  ],
+  "type": "Huge outsider"
+}

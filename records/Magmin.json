@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Elemental Fire",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG179.jpg",
+  "name": "Magmin",
+  "tags": [
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Small elemental"
+}

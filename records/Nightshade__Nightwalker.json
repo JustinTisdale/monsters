@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "16",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "21",
+  "homePlane": "Shadow",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG196.jpg",
+  "name": "Nightshade: Nightwalker",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Huge undead"
+}

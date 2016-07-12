@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84777.jpg",
+  "name": "Visage",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium undead"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG51.jpg",
+  "name": "Devil: Barbed Devil (hamatula)",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50131.jpg",
+  "name": "Caryatid Column",
+  "tags": [
+    "Medium construct"
+  ],
+  "type": "Medium construct"
+}

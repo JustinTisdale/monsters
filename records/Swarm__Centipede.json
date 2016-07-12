@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Swarm, Centipede",
+  "tags": [
+    "Swarm"
+  ],
+  "type": "Diminutive vermin"
+}

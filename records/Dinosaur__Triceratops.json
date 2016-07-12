@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Dinosaur, Triceratops",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

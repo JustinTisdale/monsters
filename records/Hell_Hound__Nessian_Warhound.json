@@ -1,0 +1,18 @@
+{
+  "alignement": "LE",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG151.jpg",
+  "name": "Hell Hound, Nessian Warhound",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Fire",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

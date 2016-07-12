@@ -1,0 +1,18 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Gehenna",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50074.jpg",
+  "name": "Canomorph, Shadurakul",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Shapechanger"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "16",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "24",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Devil: Ghargatula (baatezu)",
+  "tags": [
+    "Evil",
+    "Lawful"
+  ],
+  "type": "Huge outsider"
+}

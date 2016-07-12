@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "8",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG187.jpg",
+  "name": "Mind Flayer",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

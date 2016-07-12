@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98675.jpg",
+  "name": "Corrupture",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Huge ooze"
+}

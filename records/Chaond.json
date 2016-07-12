@@ -1,0 +1,16 @@
+{
+  "alignement": "C",
+  "challengeRating": "1",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_101.jpg",
+  "name": "Chaond",
+  "tags": [
+    "Native"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "LG",
+  "challengeRating": "10",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Naga: Guardian Naga",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

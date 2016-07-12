@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "15",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "15",
+  "homePlane": "Mechanus",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG158.jpg",
+  "name": "Inevitable: Marut",
+  "tags": [
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Large construct"
+}

@@ -1,0 +1,18 @@
+{
+  "alignement": "LG",
+  "challengeRating": "15",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "14",
+  "homePlane": "Celestia",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75098.jpg",
+  "name": "Archon, Throne",
+  "tags": [
+    "Archon",
+    "Extraplanar",
+    "Good",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

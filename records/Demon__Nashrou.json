@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "4",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98679.jpg",
+  "name": "Demon: Nashrou",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83059.jpg",
+  "name": "Summoning Ooze",
+  "tags": [
+    "Medium ooze"
+  ],
+  "type": "Medium ooze"
+}

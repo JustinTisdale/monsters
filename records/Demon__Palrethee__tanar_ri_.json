@@ -1,0 +1,18 @@
+{
+  "alignement": "CE",
+  "challengeRating": "8",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "8",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_26.jpg",
+  "name": "Demon: Palrethee (tanar'ri)",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Fire"
+  ],
+  "type": "Medium outsider"
+}

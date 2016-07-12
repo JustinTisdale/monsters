@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84743.jpg",
+  "name": "Cinderspawn",
+  "tags": [
+    "Fire"
+  ],
+  "type": "Large undead"
+}

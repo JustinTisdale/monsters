@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate Mountains"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Eagle",
+  "tags": [
+    "Small animal"
+  ],
+  "type": "Small animal"
+}

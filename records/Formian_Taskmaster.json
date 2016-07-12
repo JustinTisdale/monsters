@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Mechanus",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG108.jpg",
+  "name": "Formian Taskmaster",
+  "tags": [
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

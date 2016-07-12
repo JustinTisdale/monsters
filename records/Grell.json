@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_65.jpg",
+  "name": "Grell",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

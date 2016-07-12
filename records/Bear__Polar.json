@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Cold Plains"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Bear, Polar",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

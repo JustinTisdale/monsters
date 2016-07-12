@@ -1,0 +1,16 @@
+{
+  "alignement": "NG",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "7",
+  "homePlane": "Elysium",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG142.jpg",
+  "name": "Guardinal: Avoral",
+  "tags": [
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Werewolf (Lycanthrope)",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium humanoid"
+}

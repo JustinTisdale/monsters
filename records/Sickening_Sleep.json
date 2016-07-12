@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Sickening Sleep",
+  "tags": [
+    "Medium ooze"
+  ],
+  "type": "Medium ooze"
+}

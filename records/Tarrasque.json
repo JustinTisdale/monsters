@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "20",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "48",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG240.jpg",
+  "name": "Tarrasque",
+  "tags": [
+    "Colossal magical beast"
+  ],
+  "type": "Colossal magical beast"
+}

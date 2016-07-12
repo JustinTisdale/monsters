@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "16",
+  "environment": [
+    "Warm Plains"
+  ],
+  "hitDice": "36",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82982.jpg",
+  "name": "Dinosaur, Battletitan",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

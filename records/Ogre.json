@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG199.jpg",
+  "name": "Ogre",
+  "tags": [
+    "Large giant"
+  ],
+  "type": "Large giant"
+}

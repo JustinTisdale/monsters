@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Any Evil",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG261.jpg",
+  "name": "Yeth Hound",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

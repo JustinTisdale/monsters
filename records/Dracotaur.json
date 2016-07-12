@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82984.jpg",
+  "name": "Dracotaur",
+  "tags": [
+    "Large dragon"
+  ],
+  "type": "Large dragon"
+}

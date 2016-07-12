@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "16",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Carceri",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50076.jpg",
+  "name": "Demodand: Shator",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

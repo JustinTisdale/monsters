@@ -1,0 +1,18 @@
+{
+  "alignement": "LG",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "1",
+  "homePlane": "Celestia",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG18.jpg",
+  "name": "Archon, Lantern Archon",
+  "tags": [
+    "Archon",
+    "Extraplanar",
+    "Good",
+    "Lawful"
+  ],
+  "type": "Small outsider"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Any Forests",
+    "Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Shadow",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50110.jpg",
+  "name": "Shadar-Kai",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium fey"
+}

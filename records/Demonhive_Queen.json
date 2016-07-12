@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "6",
+  "environment": [
+    "Temperate",
+    "Warm Land"
+  ],
+  "hitDice": "8",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98681.jpg",
+  "name": "Demonhive Queen",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

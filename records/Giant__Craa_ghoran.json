@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Mountains"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/83339.jpg",
+  "name": "Giant, Craa'ghoran",
+  "tags": [
+    "Earth"
+  ],
+  "type": "Huge giant"
+}

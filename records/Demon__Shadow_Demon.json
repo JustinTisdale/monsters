@@ -1,0 +1,18 @@
+{
+  "alignement": "CE",
+  "challengeRating": "8",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Demon: Shadow Demon",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Incorporeal"
+  ],
+  "type": "Medium outsider"
+}

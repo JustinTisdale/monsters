@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "7",
+  "homePlane": "Beastlands",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82978.jpg",
+  "name": "Dread Blossom Swarm",
+  "tags": [
+    "Extraplanar",
+    "Swarm"
+  ],
+  "type": "Tiny plant"
+}

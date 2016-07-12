@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82990.jpg",
+  "name": "Forestkith Goblin, 1st-level Barbarian",
+  "tags": [
+    "Goblinoid"
+  ],
+  "type": "Small humanoid"
+}

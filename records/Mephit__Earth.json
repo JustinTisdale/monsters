@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Elemental Earth",
+  "image": null,
+  "name": "Mephit, Earth",
+  "tags": [
+    "Earth",
+    "Extraplanar"
+  ],
+  "type": "Small outsider"
+}

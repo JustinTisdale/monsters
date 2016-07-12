@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "1",
+  "environment": [
+    "Warm Mountains"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG48.jpg",
+  "name": "Firenewt",
+  "tags": [
+    "Fire",
+    "Reptilian"
+  ],
+  "type": "Medium monstrous humanoid"
+}

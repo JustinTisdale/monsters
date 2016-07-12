@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83049.jpg",
+  "name": "Shifter, 1st-level Warrior",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium humanoid"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "1",
+  "environment": [
+    "Any Marshes"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG78.jpg",
+  "name": "Siv",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium humanoid"
+}

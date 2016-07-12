@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "8",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "12",
+  "homePlane": "Ysgard",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50146.jpg",
+  "name": "Rakka (Fensir)",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Huge giant"
+}

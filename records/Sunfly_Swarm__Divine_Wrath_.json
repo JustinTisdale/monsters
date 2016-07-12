@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Sunfly Swarm (Divine Wrath)",
+  "tags": [
+    "Extraplanar",
+    "Good",
+    "Swarm"
+  ],
+  "type": "Diminutive outsider"
+}

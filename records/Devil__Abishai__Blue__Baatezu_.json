@@ -1,0 +1,18 @@
+{
+  "alignement": "LE",
+  "challengeRating": "7",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "7",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG14.jpg",
+  "name": "Devil: Abishai, Blue (Baatezu)",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

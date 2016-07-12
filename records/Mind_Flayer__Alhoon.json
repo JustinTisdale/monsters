@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "18",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "20",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88146.jpg",
+  "name": "Mind Flayer, Alhoon",
+  "tags": [
+    "Augmented abberation"
+  ],
+  "type": "Medium undead"
+}

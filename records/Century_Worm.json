@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "19",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "40",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50103.jpg",
+  "name": "Century Worm",
+  "tags": [
+    "Gargantuan vermin"
+  ],
+  "type": "Gargantuan vermin"
+}

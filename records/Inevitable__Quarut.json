@@ -1,0 +1,17 @@
+{
+  "alignement": "LN",
+  "challengeRating": "17",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "18",
+  "homePlane": "Mechanus",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG158.jpg",
+  "name": "Inevitable: Quarut",
+  "tags": [
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium construct"
+}

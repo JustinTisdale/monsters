@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Hills",
+    "Mountains"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_87.jpg",
+  "name": "Mooncalf",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

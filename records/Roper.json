@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "12",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG215b.jpg",
+  "name": "Roper",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

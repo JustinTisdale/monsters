@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "9",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Gehenna",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50107.jpg",
+  "name": "Yugoloth: Piscoloth",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

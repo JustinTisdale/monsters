@@ -1,0 +1,15 @@
+{
+  "alignement": "LG",
+  "challengeRating": "5",
+  "environment": [
+    "Cold Forests"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Werebear (Lycanthrope)",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium humanoid"
+}

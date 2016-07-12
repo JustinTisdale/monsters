@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88145.jpg",
+  "name": "Kigrid (Illithidae)",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

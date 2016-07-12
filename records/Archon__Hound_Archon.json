@@ -1,0 +1,18 @@
+{
+  "alignement": "LG",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Celestia",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG18.jpg",
+  "name": "Archon, Hound Archon",
+  "tags": [
+    "Archon",
+    "Extraplanar",
+    "Good",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

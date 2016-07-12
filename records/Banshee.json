@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "17",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "26",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_5.jpg",
+  "name": "Banshee",
+  "tags": [
+    "Incorporeal"
+  ],
+  "type": "Medium undead"
+}

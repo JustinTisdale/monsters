@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "18",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "27",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98677.jpg",
+  "name": "Demon: Deathdrinker",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Huge outsider"
+}

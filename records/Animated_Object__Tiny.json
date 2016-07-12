@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "0",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG13.jpg",
+  "name": "Animated Object, Tiny",
+  "tags": [
+    "Tiny construct"
+  ],
+  "type": "Tiny construct"
+}

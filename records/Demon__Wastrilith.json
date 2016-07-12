@@ -1,0 +1,18 @@
+{
+  "alignement": "CE",
+  "challengeRating": "17",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "15",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50077.jpg",
+  "name": "Demon: Wastrilith",
+  "tags": [
+    "Aquatic",
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Huge outsider"
+}

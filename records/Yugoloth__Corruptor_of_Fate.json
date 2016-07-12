@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "7",
+  "homePlane": "Gehenna",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98737.jpg",
+  "name": "Yugoloth: Corruptor of Fate",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

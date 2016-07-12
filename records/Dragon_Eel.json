@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Temperate Aquatic"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82963.jpg",
+  "name": "Dragon Eel",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Large dragon"
+}

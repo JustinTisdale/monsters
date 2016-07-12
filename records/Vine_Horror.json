@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "4",
+  "environment": [
+    "Any Aquatic",
+    "Marshes"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50151.jpg",
+  "name": "Vine Horror",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium plant"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Warm Plains"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Rhinoceros",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

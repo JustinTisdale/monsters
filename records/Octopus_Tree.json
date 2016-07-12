@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "12",
+  "environment": [
+    "Temperate Aquatic"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50161.jpg",
+  "name": "Octopus Tree",
+  "tags": [
+    "Huge plant"
+  ],
+  "type": "Huge plant"
+}

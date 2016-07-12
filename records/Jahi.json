@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "16",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "25",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_150.jpg",
+  "name": "Jahi",
+  "tags": [
+    "Incorporeal"
+  ],
+  "type": "Tiny undead"
+}

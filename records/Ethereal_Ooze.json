@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Ethereal",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50116.jpg",
+  "name": "Ethereal Ooze",
+  "tags": [
+    "Extraplanar",
+    "Incorporeal"
+  ],
+  "type": "Huge ooze"
+}

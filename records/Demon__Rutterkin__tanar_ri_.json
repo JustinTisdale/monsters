@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Demon: Rutterkin (tanar'ri)",
+  "tags": [
+    "Chaotic",
+    "Evil"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Temperate",
+    "Warm Hills",
+    "Marshes",
+    "Plains"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_64.jpg",
+  "name": "Greenvise",
+  "tags": [
+    "Huge plant"
+  ],
+  "type": "Huge plant"
+}

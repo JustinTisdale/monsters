@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Runehound",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

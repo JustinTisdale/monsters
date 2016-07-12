@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Warm Marshes"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83061.jpg",
+  "name": "Swamp Strider Swarm",
+  "tags": [
+    "Swarm"
+  ],
+  "type": "Diminutive vermin"
+}

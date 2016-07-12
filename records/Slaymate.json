@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84772.jpg",
+  "name": "Slaymate",
+  "tags": [
+    "Small undead"
+  ],
+  "type": "Small undead"
+}

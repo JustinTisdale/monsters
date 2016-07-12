@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82967.jpg",
+  "name": "Warbound Impaler (Lesser Battlebriar)",
+  "tags": [
+    "Large plant"
+  ],
+  "type": "Large plant"
+}

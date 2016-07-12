@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "11",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "19",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Hill Giant Dire Wereboar (Lycanthrope)",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Large giant"
+}

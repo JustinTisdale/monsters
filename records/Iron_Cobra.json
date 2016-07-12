@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50165.jpg",
+  "name": "Iron Cobra",
+  "tags": [
+    "Medium construct"
+  ],
+  "type": "Medium construct"
+}

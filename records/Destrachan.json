@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "8",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG50.jpg",
+  "name": "Destrachan",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

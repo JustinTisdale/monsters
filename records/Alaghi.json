@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate Forests",
+    "Mountains"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG15.jpg",
+  "name": "Alaghi",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

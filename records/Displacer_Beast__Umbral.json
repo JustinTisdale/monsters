@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "6",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84776.jpg",
+  "name": "Displacer Beast, Umbral",
+  "tags": [
+    "Augmented magical beast",
+    "Incorporeal"
+  ],
+  "type": "Large undead"
+}

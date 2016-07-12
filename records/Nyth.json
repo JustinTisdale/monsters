@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG68.jpg",
+  "name": "Nyth",
+  "tags": [
+    "Small aberration"
+  ],
+  "type": "Small aberration"
+}

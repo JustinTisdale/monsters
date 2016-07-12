@@ -1,0 +1,17 @@
+{
+  "alignement": "CG",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Any Upper",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75100.jpg",
+  "name": "Asura",
+  "tags": [
+    "Chaotic",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

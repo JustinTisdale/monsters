@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "0",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Toad",
+  "tags": [
+    "Diminutive animal"
+  ],
+  "type": "Diminutive animal"
+}

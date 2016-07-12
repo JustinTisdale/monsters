@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_29.jpg",
+  "name": "Desmodu Bat, Guard",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

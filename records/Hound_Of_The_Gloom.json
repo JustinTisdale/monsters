@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "9",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88144.jpg",
+  "name": "Hound Of The Gloom",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

@@ -1,0 +1,19 @@
+{
+  "alignement": "NE",
+  "challengeRating": "2",
+  "environment": [
+    "Any Deserts",
+    "Hills",
+    "Mountains",
+    "Plains",
+    "Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50157.jpg",
+  "name": "Death Dog",
+  "tags": [
+    "Medium magical beast"
+  ],
+  "type": "Medium magical beast"
+}

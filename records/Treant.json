@@ -1,0 +1,15 @@
+{
+  "alignement": "NG",
+  "challengeRating": "8",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG245.jpg",
+  "name": "Treant",
+  "tags": [
+    "Huge plant"
+  ],
+  "type": "Huge plant"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84744.jpg",
+  "name": "Corpse Rat Swarm",
+  "tags": [
+    "Swarm"
+  ],
+  "type": "Tiny undead"
+}

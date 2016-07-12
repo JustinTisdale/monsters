@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG53.jpg",
+  "name": "Devil: Chain Devil (kyton)",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

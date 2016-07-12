@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "1",
+  "homePlane": "Any Evil",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG254.jpg",
+  "name": "Vargouille",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Small outsider"
+}

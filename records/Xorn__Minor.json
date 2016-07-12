@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Elemental Earth",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG260.jpg",
+  "name": "Xorn, Minor",
+  "tags": [
+    "Earth",
+    "Extraplanar"
+  ],
+  "type": "Small outsider"
+}

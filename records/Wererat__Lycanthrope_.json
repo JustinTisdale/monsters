@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Wererat (Lycanthrope)",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium humanoid"
+}

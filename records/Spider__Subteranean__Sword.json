@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Warm Forests",
+    "Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG80.jpg",
+  "name": "Spider, Subteranean, Sword",
+  "tags": [
+    "Large vermin"
+  ],
+  "type": "Large vermin"
+}

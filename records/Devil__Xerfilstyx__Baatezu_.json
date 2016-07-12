@@ -1,0 +1,19 @@
+{
+  "alignement": "LE",
+  "challengeRating": "18",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50173.jpg",
+  "name": "Devil: Xerfilstyx (Baatezu)",
+  "tags": [
+    "Aquatic",
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Huge outsider"
+}

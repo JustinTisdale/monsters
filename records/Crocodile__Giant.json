@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Warm Marshes"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Crocodile, Giant",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

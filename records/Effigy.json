@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "17",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "27",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_42.jpg",
+  "name": "Effigy",
+  "tags": [
+    "Fire",
+    "Incorporeal"
+  ],
+  "type": "Medium undead"
+}

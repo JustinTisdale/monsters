@@ -1,0 +1,19 @@
+{
+  "alignement": "N",
+  "challengeRating": "15",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "32",
+  "homePlane": "Elemental Fire",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83030.jpg",
+  "name": "Omnimental",
+  "tags": [
+    "Air",
+    "Earth",
+    "Extraplanar",
+    "Fire",
+    "Water"
+  ],
+  "type": "Gargantuan elemental"
+}

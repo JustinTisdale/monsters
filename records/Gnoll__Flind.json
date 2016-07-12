@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "2",
+  "environment": [
+    "Warm Plains"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82996.jpg",
+  "name": "Gnoll, Flind",
+  "tags": [
+    "Medium humanoid"
+  ],
+  "type": "Medium humanoid"
+}

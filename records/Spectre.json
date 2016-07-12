@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "7",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG232.jpg",
+  "name": "Spectre",
+  "tags": [
+    "Incorporeal"
+  ],
+  "type": "Medium undead"
+}

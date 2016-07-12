@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "9",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "8",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50074.jpg",
+  "name": "Canomorph, Vultivor",
+  "tags": [
+    "Medium outsider"
+  ],
+  "type": "Medium outsider"
+}

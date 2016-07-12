@@ -1,0 +1,18 @@
+{
+  "alignement": "NE",
+  "challengeRating": "13",
+  "environment": [
+    "Temperate",
+    "Warm Forests",
+    "Hills",
+    "Marshes"
+  ],
+  "hitDice": "12",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50095.jpg",
+  "name": "Ironmaw",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Huge plant"
+}

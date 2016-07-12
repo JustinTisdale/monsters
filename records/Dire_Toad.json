@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate",
+    "Warm Aquatic",
+    "Land",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Dire Toad",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

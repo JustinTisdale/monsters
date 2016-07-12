@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Snake, Viper, Medium",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

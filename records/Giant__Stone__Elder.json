@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Temperate Mountains"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG123.jpg",
+  "name": "Giant, Stone, Elder",
+  "tags": [
+    "Earth"
+  ],
+  "type": "Large giant"
+}

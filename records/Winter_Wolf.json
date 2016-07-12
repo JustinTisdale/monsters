@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "5",
+  "environment": [
+    "Cold Forests"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG256.jpg",
+  "name": "Winter Wolf",
+  "tags": [
+    "Cold"
+  ],
+  "type": "Large magical beast"
+}

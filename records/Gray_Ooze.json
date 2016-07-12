@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Cold Marshes"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Gray Ooze",
+  "tags": [
+    "Medium ooze"
+  ],
+  "type": "Medium ooze"
+}

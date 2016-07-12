@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Elemental Fire",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG115.jpg",
+  "name": "Genie, Efreeti",
+  "tags": [
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Large outsider"
+}

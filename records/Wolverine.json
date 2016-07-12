@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Cold Forests"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Wolverine",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate",
+    "Warm Forests"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98718.jpg",
+  "name": "Greenspawn Leaper (Spawn of Tiamat)",
+  "tags": [
+    "Dragonblood"
+  ],
+  "type": "Medium magical beast"
+}

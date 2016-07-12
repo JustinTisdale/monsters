@@ -1,0 +1,17 @@
+{
+  "alignement": "LN",
+  "challengeRating": "11",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Mechanus",
+  "image": "https://wizards.com/dnd/images/mi20060817c_armadon.jpg",
+  "name": "Formian Observer",
+  "tags": [
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

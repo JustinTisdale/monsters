@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "8",
+  "environment": [
+    "Cold Hills"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88132.jpg",
+  "name": "Beholderkin, Director",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

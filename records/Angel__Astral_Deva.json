@@ -1,0 +1,17 @@
+{
+  "alignement": "G",
+  "challengeRating": "14",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Any Good",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG12.jpg",
+  "name": "Angel, Astral Deva",
+  "tags": [
+    "Angel",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "2",
+  "environment": [
+    "Warm Aquatic"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG217.jpg",
+  "name": "Sahuagin",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium monstrous humanoid"
+}

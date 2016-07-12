@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "19",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "31",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_103.jpg",
+  "name": "Ragewind",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

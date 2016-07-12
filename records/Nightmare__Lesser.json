@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Hades",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82537.jpg",
+  "name": "Nightmare, Lesser",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

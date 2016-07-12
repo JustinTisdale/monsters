@@ -1,0 +1,18 @@
+{
+  "alignement": "CE",
+  "challengeRating": "21",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "18",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50077.jpg",
+  "name": "Demon: Myrmyxicus (Tanar'ri)",
+  "tags": [
+    "Aquatic",
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Huge outsider"
+}

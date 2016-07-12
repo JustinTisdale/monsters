@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG223a.jpg",
+  "name": "Shambling Mound",
+  "tags": [
+    "Large plant"
+  ],
+  "type": "Large plant"
+}

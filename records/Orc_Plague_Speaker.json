@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "7",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Orc Plague Speaker",
+  "tags": [
+    "Augmented humanoid",
+    "Evil",
+    "Native"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "11",
+  "environment": [
+    "Warm Forests",
+    "Underground"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50167.jpg",
+  "name": "Sarkrith Thane",
+  "tags": [
+    "Large monstrous humanoid"
+  ],
+  "type": "Large monstrous humanoid"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "0",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Raven",
+  "tags": [
+    "Tiny animal"
+  ],
+  "type": "Tiny animal"
+}

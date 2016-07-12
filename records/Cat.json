@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "0",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Cat",
+  "tags": [
+    "Tiny animal"
+  ],
+  "type": "Tiny animal"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Negative Energy",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82553.jpg",
+  "name": "Void Ooze",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large ooze"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "15",
+  "environment": [
+    "Warm Deserts"
+  ],
+  "hitDice": "20",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82994.jpg",
+  "name": "Giant, Sand  Champion, 5th-level Fighter",
+  "tags": [
+    "Earth",
+    "Fire"
+  ],
+  "type": "Large giant"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG37.jpg",
+  "name": "Cockatrice",
+  "tags": [
+    "Small magical beast"
+  ],
+  "type": "Small magical beast"
+}

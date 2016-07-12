@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83042.jpg",
+  "name": "Rejkar",
+  "tags": [
+    "Cold"
+  ],
+  "type": "Large outsider"
+}

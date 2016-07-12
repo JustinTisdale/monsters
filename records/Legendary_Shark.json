@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "30",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Legendary Shark",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Huge animal"
+}

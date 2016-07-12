@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate",
+    "Warm Forests",
+    "Plains",
+    "Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG15.jpg",
+  "name": "Ankheg",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

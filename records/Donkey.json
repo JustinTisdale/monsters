@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate Deserts"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Donkey",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "11",
+  "environment": [
+    "Any Forests"
+  ],
+  "hitDice": "13",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_59.jpg",
+  "name": "Giant, Forest",
+  "tags": [
+    "Huge giant"
+  ],
+  "type": "Huge giant"
+}

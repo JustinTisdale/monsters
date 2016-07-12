@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "7",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50168.jpg",
+  "name": "Swordwraith",
+  "tags": [
+    "Medium undead"
+  ],
+  "type": "Medium undead"
+}

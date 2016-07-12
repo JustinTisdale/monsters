@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_62.jpg",
+  "name": "Golem, Stained Glass",
+  "tags": [
+    "Medium construct"
+  ],
+  "type": "Medium construct"
+}

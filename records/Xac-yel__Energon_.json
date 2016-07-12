@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Gehenna",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82549.jpg",
+  "name": "Xac-yel (Energon)",
+  "tags": [
+    "Extraplanar",
+    "Fire",
+    "Incorporeal"
+  ],
+  "type": "Medium outsider"
+}

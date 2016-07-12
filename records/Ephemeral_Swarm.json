@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Ethereal",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82988.jpg",
+  "name": "Ephemeral Swarm",
+  "tags": [
+    "Incorporeal",
+    "Swarm"
+  ],
+  "type": "Tiny undead"
+}

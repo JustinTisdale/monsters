@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "2",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG228.jpg",
+  "name": "Skum",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium aberration"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Ant, Giant, Worker",
+  "tags": [
+    "Medium vermin"
+  ],
+  "type": "Medium vermin"
+}

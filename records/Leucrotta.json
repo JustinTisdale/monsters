@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate Hills",
+    "Mountains"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG63b.jpg",
+  "name": "Leucrotta",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

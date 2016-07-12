@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Any Evil",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50125.jpg",
+  "name": "Kaorti",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

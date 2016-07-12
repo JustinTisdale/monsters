@@ -1,0 +1,18 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate",
+    "Warm Hills",
+    "Marshes",
+    "Plains"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Wortling",
+  "tags": [
+    "Small plant"
+  ],
+  "type": "Small plant"
+}

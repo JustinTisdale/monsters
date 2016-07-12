@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "8",
+  "homePlane": "Hades",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50091.jpg",
+  "name": "Slasrath",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large aberration"
+}

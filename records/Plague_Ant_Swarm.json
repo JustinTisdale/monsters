@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Warm Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Plague Ant Swarm",
+  "tags": [
+    "Swarm"
+  ],
+  "type": "Medium vermin"
+}

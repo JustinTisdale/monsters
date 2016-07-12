@@ -1,0 +1,17 @@
+{
+  "alignement": "CG",
+  "challengeRating": "18",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "18",
+  "homePlane": "Arborea",
+  "image": null,
+  "name": "Eladrin: Tulani",
+  "tags": [
+    "Chaotic",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

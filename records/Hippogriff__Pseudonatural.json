@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Hippogriff, Pseudonatural",
+  "tags": [
+    "Large outsider"
+  ],
+  "type": "Large outsider"
+}

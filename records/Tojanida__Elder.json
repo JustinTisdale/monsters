@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "15",
+  "homePlane": "Elemental Water",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG243.jpg",
+  "name": "Tojanida, Elder",
+  "tags": [
+    "Extraplanar",
+    "Water"
+  ],
+  "type": "Large outsider"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "17",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Gehenna",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_127.jpg",
+  "name": "Yugoloth: Arcanaloth",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

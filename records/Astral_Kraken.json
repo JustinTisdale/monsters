@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "16",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "20",
+  "homePlane": "Astral",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82540.jpg",
+  "name": "Astral Kraken",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Gargantuan vermin"
+}

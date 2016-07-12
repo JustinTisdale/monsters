@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "1",
+  "environment": [
+    "Warm Aquatic"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_73.jpg",
+  "name": "Ixitxachitl, Average",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Small aberration"
+}

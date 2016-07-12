@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "1",
+  "environment": [
+    "Warm Land"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98690.jpg",
+  "name": "Howler Wasp",
+  "tags": [
+    "Small aberration"
+  ],
+  "type": "Small aberration"
+}

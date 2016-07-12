@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Warm Forests",
+    "Hills",
+    "Mountains"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_31.jpg",
+  "name": "Dinosaur: Quetzalcoatlus",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

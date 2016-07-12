@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "18",
+  "environment": [
+    "Warm Forests",
+    "Underground"
+  ],
+  "hitDice": "22",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG263.jpg",
+  "name": "Yuan-Ti Anathema",
+  "tags": [
+    "Huge aberration"
+  ],
+  "type": "Huge aberration"
+}

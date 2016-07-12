@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "9",
+  "environment": [
+    "Cold Mountains"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG121.jpg",
+  "name": "Giant, Frost",
+  "tags": [
+    "Cold"
+  ],
+  "type": "Large giant"
+}

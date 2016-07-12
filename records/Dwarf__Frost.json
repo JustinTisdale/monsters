@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "1",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82544.jpg",
+  "name": "Dwarf, Frost",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium humanoid"
+}

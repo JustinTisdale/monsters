@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Cold",
+    "Temperate Land"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_93.jpg",
+  "name": "Nethersight Mastiff",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

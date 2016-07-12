@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "6",
+  "environment": [
+    "Warm Aquatic"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50071.jpg",
+  "name": "Ahuizotl",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Large aberration"
+}

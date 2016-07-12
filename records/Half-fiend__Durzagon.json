@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "4",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_68.jpg",
+  "name": "Half-fiend, Durzagon",
+  "tags": [
+    "Evil",
+    "Lawful",
+    "Native"
+  ],
+  "type": "Medium outsider"
+}

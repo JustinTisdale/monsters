@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG199.jpg",
+  "name": "Ogre, 4th-level Barbarian",
+  "tags": [
+    "Large giant"
+  ],
+  "type": "Large giant"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "12",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "18",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG24.jpg",
+  "name": "Basilisk, Abyssal Greater",
+  "tags": [
+    "Augmented magical beast",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

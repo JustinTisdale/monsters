@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "13",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG48.jpg",
+  "name": "Demon: Glabrezu",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Huge outsider"
+}

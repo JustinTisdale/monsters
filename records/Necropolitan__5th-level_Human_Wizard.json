@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84763.jpg",
+  "name": "Necropolitan, 5th-level Human Wizard",
+  "tags": [
+    "Augmented humanoid"
+  ],
+  "type": "Medium undead"
+}

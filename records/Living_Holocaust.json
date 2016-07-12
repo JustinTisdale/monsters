@@ -1,0 +1,19 @@
+{
+  "alignement": "CE",
+  "challengeRating": "13",
+  "environment": [
+    "Temperate",
+    "Warm Land",
+    "Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50160.jpg",
+  "name": "Living Holocaust",
+  "tags": [
+    "Air",
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Small elemental"
+}

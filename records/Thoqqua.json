@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Elemental Fire",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG242a.jpg",
+  "name": "Thoqqua",
+  "tags": [
+    "Earth",
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Medium elemental"
+}

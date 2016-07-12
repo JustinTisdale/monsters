@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Temperate Aquatic"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Naga: Water Naga",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Large aberration"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Gehenna",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50107.jpg",
+  "name": "Yugoloth: Skeroloth",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Small outsider"
+}

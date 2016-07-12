@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "12",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "16",
+  "homePlane": "Ethereal",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_47.jpg",
+  "name": "Ethereal Slayer",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

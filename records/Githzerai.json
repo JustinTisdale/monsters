@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "1",
+  "homePlane": "Limbo",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG129.jpg",
+  "name": "Githzerai",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium humanoid"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate",
+    "Warm Aquatic",
+    "Marshes"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG25.jpg",
+  "name": "Bullywug",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium humanoid"
+}

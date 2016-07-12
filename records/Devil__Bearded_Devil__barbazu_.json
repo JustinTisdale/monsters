@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG52.jpg",
+  "name": "Devil: Bearded Devil (barbazu)",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

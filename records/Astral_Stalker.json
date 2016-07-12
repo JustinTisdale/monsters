@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "12",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Astral",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82964.jpg",
+  "name": "Astral Stalker",
+  "tags": [
+    "Medium outsider"
+  ],
+  "type": "Medium outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "4",
+  "environment": [
+    "Warm Forests"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83004.jpg",
+  "name": "Lhosk",
+  "tags": [
+    "Large monstrous humanoid"
+  ],
+  "type": "Large monstrous humanoid"
+}

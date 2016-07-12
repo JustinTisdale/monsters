@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "28",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "28",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_80.jpg",
+  "name": "Linnorm, Corpse Tearer",
+  "tags": [
+    "Gargantuan dragon"
+  ],
+  "type": "Gargantuan dragon"
+}

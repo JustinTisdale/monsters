@@ -1,0 +1,15 @@
+{
+  "alignement": "CG",
+  "challengeRating": "9",
+  "environment": [
+    "Warm Deserts"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Androsphinx",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

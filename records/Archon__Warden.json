@@ -1,0 +1,18 @@
+{
+  "alignement": "LG",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Celestia",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75099.jpg",
+  "name": "Archon, Warden",
+  "tags": [
+    "Archon",
+    "Extraplanar",
+    "Good",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "CG",
+  "challengeRating": "13",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "10",
+  "homePlane": "Arborea",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG94.jpg",
+  "name": "Eladrin: Ghaele",
+  "tags": [
+    "Chaotic",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

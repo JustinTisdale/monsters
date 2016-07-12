@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Elemental Fire",
+  "image": null,
+  "name": "Elemental, Fire, Large",
+  "tags": [
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Large elemental"
+}

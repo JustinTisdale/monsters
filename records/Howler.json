@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Any Chaotic",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG155.jpg",
+  "name": "Howler",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

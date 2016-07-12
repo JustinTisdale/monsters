@@ -1,0 +1,15 @@
+{
+  "alignement": "LN",
+  "challengeRating": "<1",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_90.jpg",
+  "name": "Myconid Junior Worker",
+  "tags": [
+    "Tiny plant"
+  ],
+  "type": "Tiny plant"
+}

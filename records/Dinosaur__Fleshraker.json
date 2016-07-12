@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82983.jpg",
+  "name": "Dinosaur, Fleshraker",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

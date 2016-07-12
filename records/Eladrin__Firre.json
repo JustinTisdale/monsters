@@ -1,0 +1,17 @@
+{
+  "alignement": "CG",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Arborea",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75104.jpg",
+  "name": "Eladrin: Firre",
+  "tags": [
+    "Chaotic",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

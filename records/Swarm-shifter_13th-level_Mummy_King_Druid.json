@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "16",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "21",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84774.jpg",
+  "name": "Swarm-shifter 13th-level Mummy King Druid",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium undead"
+}

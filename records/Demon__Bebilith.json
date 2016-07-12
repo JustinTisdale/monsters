@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG42.jpg",
+  "name": "Demon: Bebilith",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Huge outsider"
+}

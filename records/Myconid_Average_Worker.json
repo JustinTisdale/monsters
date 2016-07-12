@@ -1,0 +1,15 @@
+{
+  "alignement": "LN",
+  "challengeRating": "1",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_90.jpg",
+  "name": "Myconid Average Worker",
+  "tags": [
+    "Small plant"
+  ],
+  "type": "Small plant"
+}

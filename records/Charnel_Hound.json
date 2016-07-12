@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "13",
+  "environment": [
+    "Cold Plains"
+  ],
+  "hitDice": "21",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83045.jpg",
+  "name": "Charnel Hound",
+  "tags": [
+    "Huge undead"
+  ],
+  "type": "Huge undead"
+}

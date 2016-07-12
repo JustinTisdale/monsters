@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "16",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_86.jpg",
+  "name": "Moonbeast",
+  "tags": [
+    "Huge aberration"
+  ],
+  "type": "Huge aberration"
+}

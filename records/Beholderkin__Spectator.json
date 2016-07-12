@@ -1,0 +1,15 @@
+{
+  "alignement": "LN",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "4",
+  "homePlane": "Mechanus",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88134.jpg",
+  "name": "Beholderkin, Spectator",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium aberration"
+}

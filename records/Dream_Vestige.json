@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "16",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "17",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84749.jpg",
+  "name": "Dream Vestige",
+  "tags": [
+    "Incorporeal"
+  ],
+  "type": "Huge undead"
+}

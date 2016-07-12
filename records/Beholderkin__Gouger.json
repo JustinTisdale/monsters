@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG23.jpg",
+  "name": "Beholderkin, Gouger",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Aquatic"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Squid",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium animal"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Temperate Land",
+    "Underground"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_12.jpg",
+  "name": "Breathdrinker",
+  "tags": [
+    "Air",
+    "Evil"
+  ],
+  "type": "Medium elemental"
+}

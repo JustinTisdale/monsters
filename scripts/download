@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'bundler/setup'
+require 'awesome_print'
+require_relative '../lib/helper_download'
+
+urls = []
+1325.times do |i|
+  urls << "http://monsterfinder.dndrunde.de/details.php?id=#{i}"
+end
+
+HelperDownload.download(urls)

@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84745.jpg",
+  "name": "Crypt Chanter",
+  "tags": [
+    "Incorporeal"
+  ],
+  "type": "Medium undead"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Elemental Earth",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_44.jpg",
+  "name": "Weird, Earth",
+  "tags": [
+    "Earth",
+    "Extraplanar"
+  ],
+  "type": "Large elemental"
+}

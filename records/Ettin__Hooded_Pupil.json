@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Cold Hills"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84758.jpg",
+  "name": "Ettin, Hooded Pupil",
+  "tags": [
+    "Large giant"
+  ],
+  "type": "Large giant"
+}

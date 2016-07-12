@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "15",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "26",
+  "homePlane": "Elemental Water",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98663.jpg",
+  "name": "Waterveiled Assassin (Water Avatar)",
+  "tags": [
+    "Extraplanar",
+    "Water"
+  ],
+  "type": "Large elemental"
+}

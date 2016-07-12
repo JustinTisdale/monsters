@@ -1,0 +1,15 @@
+{
+  "alignement": "E",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84764.jpg",
+  "name": "Plague Blight",
+  "tags": [
+    "Evil"
+  ],
+  "type": "Medium undead"
+}

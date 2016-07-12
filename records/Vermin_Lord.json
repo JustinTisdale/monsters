@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "17",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "25",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83073.jpg",
+  "name": "Vermin Lord",
+  "tags": [
+    "Large monstrous humanoid"
+  ],
+  "type": "Large monstrous humanoid"
+}

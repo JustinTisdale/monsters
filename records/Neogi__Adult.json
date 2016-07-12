@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate",
+    "Warm Land",
+    "Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_92.jpg",
+  "name": "Neogi, Adult",
+  "tags": [
+    "Small aberration"
+  ],
+  "type": "Small aberration"
+}

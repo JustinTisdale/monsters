@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "15",
+  "environment": [
+    "Temperate Mountains"
+  ],
+  "hitDice": "17",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG212.jpg",
+  "name": "Rakshasa, Ak'chazar",
+  "tags": [
+    "Native"
+  ],
+  "type": "Medium outsider"
+}

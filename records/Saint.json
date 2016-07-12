@@ -1,0 +1,16 @@
+{
+  "alignement": "LG",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75119.jpg",
+  "name": "Saint",
+  "tags": [
+    "Augmented humanoid",
+    "Native"
+  ],
+  "type": "Medium outsider"
+}

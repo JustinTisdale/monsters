@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83035.jpg",
+  "name": "Plague Spewer",
+  "tags": [
+    "Huge undead"
+  ],
+  "type": "Huge undead"
+}

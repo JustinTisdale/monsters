@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "13",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "15",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82977.jpg",
+  "name": "Conflagration Ooze, Infernal",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Huge ooze"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_19.jpg",
+  "name": "Clockwork Horror: Gold Horror",
+  "tags": [
+    "Small construct"
+  ],
+  "type": "Small construct"
+}

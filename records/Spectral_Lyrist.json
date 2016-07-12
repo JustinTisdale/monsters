@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84773.jpg",
+  "name": "Spectral Lyrist",
+  "tags": [
+    "Incorporeal"
+  ],
+  "type": "Medium undead"
+}

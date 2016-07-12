@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "17",
+  "environment": [
+    "Cold Mountains"
+  ],
+  "hitDice": "22",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG121.jpg",
+  "name": "Giant, Frost, Jarl, 8th-level Blackguard",
+  "tags": [
+    "Cold"
+  ],
+  "type": "Large giant"
+}

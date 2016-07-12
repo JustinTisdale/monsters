@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "8",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG51a.jpg",
+  "name": "Giant, Phaerlin",
+  "tags": [
+    "Earth"
+  ],
+  "type": "Huge giant"
+}

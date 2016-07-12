@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "14",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Abyss",
+  "image": "http://wizards.com/dnd/images/csq_gallery/44439.jpg",
+  "name": "Demon: Blood Fiend",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large undead"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "9",
+  "environment": [
+    "Cold Forests"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83037.jpg",
+  "name": "Rage Drake",
+  "tags": [
+    "Large dragon"
+  ],
+  "type": "Large dragon"
+}

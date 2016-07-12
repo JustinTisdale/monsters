@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "9",
+  "homePlane": "Shadow",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50122.jpg",
+  "name": "Darkweaver",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium aberration"
+}

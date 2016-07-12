@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "18",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "24",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50078.jpg",
+  "name": "Golem, Demonflesh",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Huge construct"
+}

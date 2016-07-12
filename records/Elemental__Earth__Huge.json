@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "16",
+  "homePlane": "Elemental Earth",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG98.jpg",
+  "name": "Elemental, Earth, Huge",
+  "tags": [
+    "Earth",
+    "Extraplanar"
+  ],
+  "type": "Huge elemental"
+}

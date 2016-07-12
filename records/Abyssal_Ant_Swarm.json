@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "16",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "20",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50128.jpg",
+  "name": "Abyssal Ant Swarm",
+  "tags": [
+    "Extraplanar",
+    "Swarm"
+  ],
+  "type": "Medium aberration"
+}

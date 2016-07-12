@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Warm Deserts"
+  ],
+  "hitDice": "40",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Monstrous Scorpion, Colossal",
+  "tags": [
+    "Colossal vermin"
+  ],
+  "type": "Colossal vermin"
+}

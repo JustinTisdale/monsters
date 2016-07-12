@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "15",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "26",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84733.jpg",
+  "name": "Angel Of Decay",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

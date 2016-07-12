@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "8",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "13",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Mindshredder Zenthal",
+  "tags": [
+    "Medium aberration"
+  ],
+  "type": "Medium aberration"
+}

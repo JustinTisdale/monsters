@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "1",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Mindshredder Larva",
+  "tags": [
+    "Small aberration"
+  ],
+  "type": "Small aberration"
+}

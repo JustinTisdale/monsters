@@ -1,0 +1,17 @@
+{
+  "alignement": "G",
+  "challengeRating": "9",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Any Upper",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50092.jpg",
+  "name": "Angel, Movanic Deva",
+  "tags": [
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Medium outsider"
+}

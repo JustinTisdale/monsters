@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "16",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "42",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG123.jpg",
+  "name": "Golem, Stone, Greater",
+  "tags": [
+    "Huge construct"
+  ],
+  "type": "Huge construct"
+}

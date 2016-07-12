@@ -1,0 +1,18 @@
+{
+  "alignement": "LE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50135.jpg",
+  "name": "Devil: Imp, Euphoric",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Tiny outsider"
+}

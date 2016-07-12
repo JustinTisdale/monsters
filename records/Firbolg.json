@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "12",
+  "environment": [
+    "Temperate Forests",
+    "Hills"
+  ],
+  "hitDice": "13",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_52.jpg",
+  "name": "Firbolg",
+  "tags": [
+    "Large giant"
+  ],
+  "type": "Large giant"
+}

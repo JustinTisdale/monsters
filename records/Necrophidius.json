@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50140.jpg",
+  "name": "Necrophidius",
+  "tags": [
+    "Medium construct"
+  ],
+  "type": "Medium construct"
+}

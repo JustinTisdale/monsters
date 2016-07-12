@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "2",
+  "environment": [
+    "Any Aquatic",
+    "Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG164a.jpg",
+  "name": "Kuo-Toa",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium monstrous humanoid"
+}

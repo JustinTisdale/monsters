@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Any Deserts",
+    "Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Scarab Beetle Swarm",
+  "tags": [
+    "Swarm"
+  ],
+  "type": "Medium vermin"
+}

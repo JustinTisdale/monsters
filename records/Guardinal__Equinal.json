@@ -1,0 +1,16 @@
+{
+  "alignement": "NG",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Elysium",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75109.jpg",
+  "name": "Guardinal: Equinal",
+  "tags": [
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Large outsider"
+}

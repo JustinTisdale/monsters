@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83019.jpg",
+  "name": "Lizardfolk, Poison Dusk, 1st-level Ranger",
+  "tags": [
+    "Reptilian"
+  ],
+  "type": "Small humanoid"
+}

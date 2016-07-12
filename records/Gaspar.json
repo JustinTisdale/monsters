@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "14",
+  "homePlane": "Beastlands",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82551.jpg",
+  "name": "Gaspar",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Huge magical beast"
+}

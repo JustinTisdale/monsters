@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Elemental Water",
+  "image": null,
+  "name": "Elemental, Water, Small",
+  "tags": [
+    "Extraplanar",
+    "Water"
+  ],
+  "type": "Small elemental"
+}

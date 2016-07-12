@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Any Aquatic",
+    "Land"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG72.jpg",
+  "name": "Planetouched, Genasi",
+  "tags": [
+    "Medium outsider"
+  ],
+  "type": "Medium outsider"
+}

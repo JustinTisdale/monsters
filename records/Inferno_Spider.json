@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Warm Land"
+  ],
+  "hitDice": "14",
+  "homePlane": "Elemental Fire",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98691.jpg",
+  "name": "Inferno Spider",
+  "tags": [
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Large elemental"
+}

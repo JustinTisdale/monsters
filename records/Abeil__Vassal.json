@@ -1,0 +1,18 @@
+{
+  "alignement": "L",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate",
+    "Warm Deserts",
+    "Hills",
+    "Plains"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_1.jpg",
+  "name": "Abeil, Vassal",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

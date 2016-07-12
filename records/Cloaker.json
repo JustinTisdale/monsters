@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "5",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG36.jpg",
+  "name": "Cloaker",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

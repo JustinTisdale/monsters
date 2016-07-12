@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "8",
+  "environment": [
+    "Any Hills",
+    "Plains"
+  ],
+  "hitDice": "9",
+  "homePlane": "Outlands",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50166.jpg",
+  "name": "Kuldurath",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large magical beast"
+}

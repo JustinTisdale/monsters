@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "1",
+  "environment": [
+    "Any Hills",
+    "Plains"
+  ],
+  "hitDice": "2",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50155.jpg",
+  "name": "Abrian",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium magical beast"
+}

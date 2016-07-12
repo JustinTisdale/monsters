@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Warm Deserts"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Hieracosphinx",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

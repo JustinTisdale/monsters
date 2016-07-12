@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Temperate Aquatic"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Squid, Giant",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Huge animal"
+}

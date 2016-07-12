@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83018.jpg",
+  "name": "Lizardfolk, Blackscale",
+  "tags": [
+    "Reptilian"
+  ],
+  "type": "Large monstrous humanoid"
+}

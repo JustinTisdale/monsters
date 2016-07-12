@@ -1,0 +1,15 @@
+{
+  "alignement": "NG",
+  "challengeRating": "9",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_28.jpg",
+  "name": "Desmodu",
+  "tags": [
+    "Large monstrous humanoid"
+  ],
+  "type": "Large monstrous humanoid"
+}

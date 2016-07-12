@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "12",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "19",
+  "homePlane": "Limbo",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84751.jpg",
+  "name": "Entropic Reaper",
+  "tags": [
+    "Chaotic",
+    "Extraplanar"
+  ],
+  "type": "Medium undead"
+}

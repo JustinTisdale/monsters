@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "24",
+  "homePlane": "Pandemonium",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83023.jpg",
+  "name": "Mivilorn",
+  "tags": [
+    "Chaotic",
+    "Extraplanar"
+  ],
+  "type": "Huge magical beast"
+}

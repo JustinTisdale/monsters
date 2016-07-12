@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83019.jpg",
+  "name": "Lizardfolk, Poison Dusk Lieutenant, 4th-level Rang",
+  "tags": [
+    "Reptilian"
+  ],
+  "type": "Small humanoid"
+}

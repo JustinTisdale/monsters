@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "12",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/lom_gallery/88147.jpg",
+  "name": "Mind Flayer, Ulitharid",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

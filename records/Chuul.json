@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG35b.jpg",
+  "name": "Chuul",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Large aberration"
+}

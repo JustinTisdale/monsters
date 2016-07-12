@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Cold Forests"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG63.jpg",
+  "name": "Dire Bear",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

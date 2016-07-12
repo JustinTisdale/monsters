@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "7",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG34.jpg",
+  "name": "Chimera",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

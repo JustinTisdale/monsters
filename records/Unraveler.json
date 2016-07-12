@@ -1,0 +1,17 @@
+{
+  "alignement": "LN",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Any Inner",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82534.jpg",
+  "name": "Unraveler",
+  "tags": [
+    "Extraplanar",
+    "Incorporeal",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

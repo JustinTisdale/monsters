@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Snake, Huge Viper",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

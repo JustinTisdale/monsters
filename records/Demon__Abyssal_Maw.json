@@ -1,0 +1,18 @@
+{
+  "alignement": "CE",
+  "challengeRating": "2",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_25.jpg",
+  "name": "Demon: Abyssal Maw",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

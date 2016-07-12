@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "4",
+  "environment": [
+    "Warm Hills"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Zombie, Wyvern",
+  "tags": [
+    "Large undead"
+  ],
+  "type": "Large undead"
+}

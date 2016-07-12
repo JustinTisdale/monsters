@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Elemental Fire",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG22a.jpg",
+  "name": "Azer",
+  "tags": [
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Medium outsider"
+}

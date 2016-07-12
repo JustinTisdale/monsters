@@ -1,0 +1,18 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG34.jpg",
+  "name": "Demon: Yochlol",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

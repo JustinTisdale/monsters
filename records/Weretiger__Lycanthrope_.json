@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Warm Forests"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Weretiger (Lycanthrope)",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium humanoid"
+}

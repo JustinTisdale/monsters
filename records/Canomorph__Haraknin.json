@@ -1,0 +1,20 @@
+{
+  "alignement": "LE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50074.jpg",
+  "name": "Canomorph, Haraknin",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Fire",
+    "Lawful",
+    "Shapechanger"
+  ],
+  "type": "Medium outsider"
+}

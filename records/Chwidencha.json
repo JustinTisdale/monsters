@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50143.jpg",
+  "name": "Chwidencha",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

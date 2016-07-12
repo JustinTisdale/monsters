@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "6",
+  "environment": [
+    "Cold Hills"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG107.jpg",
+  "name": "Ettin",
+  "tags": [
+    "Large giant"
+  ],
+  "type": "Large giant"
+}

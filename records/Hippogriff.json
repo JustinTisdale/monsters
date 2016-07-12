@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG153b.jpg",
+  "name": "Hippogriff",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

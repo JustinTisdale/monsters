@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any Deserts",
+    "Plains"
+  ],
+  "hitDice": "3",
+  "homePlane": "Abyss, Carceri, Outlands, Pandemonium",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50121.jpg",
+  "name": "Bloodthorn",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large plant"
+}

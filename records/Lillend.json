@@ -1,0 +1,17 @@
+{
+  "alignement": "CG",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "7",
+  "homePlane": "Any Chaotic",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG168.jpg",
+  "name": "Lillend",
+  "tags": [
+    "Chaotic",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Large outsider"
+}

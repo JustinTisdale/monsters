@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "10",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50147.jpg",
+  "name": "Gathra",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large magical beast"
+}

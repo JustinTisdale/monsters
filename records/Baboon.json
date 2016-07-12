@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Warm Plains"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Baboon",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

@@ -1,0 +1,18 @@
+{
+  "alignement": "LE",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Any Evil",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG22b.jpg",
+  "name": "Barghest",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful",
+    "Shapechanger"
+  ],
+  "type": "Medium outsider"
+}

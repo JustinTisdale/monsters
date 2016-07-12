@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Temperate Hills"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG30.jpg",
+  "name": "Bulette",
+  "tags": [
+    "Huge magical beast"
+  ],
+  "type": "Huge magical beast"
+}

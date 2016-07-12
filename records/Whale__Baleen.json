@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Warm Aquatic"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Whale, Baleen",
+  "tags": [
+    "Gargantuan animal"
+  ],
+  "type": "Gargantuan animal"
+}

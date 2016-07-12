@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82973.jpg",
+  "name": "Changeling Spy, 3rd-level Rogue",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium humanoid"
+}

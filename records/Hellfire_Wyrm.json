@@ -1,0 +1,16 @@
+{
+  "alignement": "LE",
+  "challengeRating": "26",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "23",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_69.jpg",
+  "name": "Hellfire Wyrm",
+  "tags": [
+    "Fire"
+  ],
+  "type": "Huge dragon"
+}

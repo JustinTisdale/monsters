@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "2",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Arborea",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50120.jpg",
+  "name": "Bacchae",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

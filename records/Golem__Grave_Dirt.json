@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84756.jpg",
+  "name": "Golem, Grave Dirt",
+  "tags": [
+    "Large construct"
+  ],
+  "type": "Large construct"
+}

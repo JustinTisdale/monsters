@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "11",
+  "homePlane": "Carceri",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50076.jpg",
+  "name": "Demodand: Farastu",
+  "tags": [
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

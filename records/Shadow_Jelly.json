@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Shadow",
+  "image": "http://www.wizards.com/dnd/images/planar_gallery/82541.jpg",
+  "name": "Shadow Jelly",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large ooze"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Any Aquatic"
+  ],
+  "hitDice": "11",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Kelp Angler",
+  "tags": [
+    "Large plant"
+  ],
+  "type": "Large plant"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Any Lawful",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG9.jpg",
+  "name": "Achaierai",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

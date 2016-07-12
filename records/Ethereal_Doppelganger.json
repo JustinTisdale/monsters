@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "15",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "20",
+  "homePlane": "Ethereal",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_46.jpg",
+  "name": "Ethereal Doppelganger",
+  "tags": [
+    "Extraplanar",
+    "Shapechanger"
+  ],
+  "type": "Medium magical beast"
+}

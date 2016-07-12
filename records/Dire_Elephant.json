@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "10",
+  "environment": [
+    "Warm Forests",
+    "Plains"
+  ],
+  "hitDice": "20",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Dire Elephant",
+  "tags": [
+    "Gargantuan animal"
+  ],
+  "type": "Gargantuan animal"
+}

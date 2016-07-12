@@ -1,0 +1,18 @@
+{
+  "alignement": "CE",
+  "challengeRating": "14",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "11",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50133.jpg",
+  "name": "Demon: Alkilith (Tanar'ri)",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

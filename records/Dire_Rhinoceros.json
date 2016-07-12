@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Cold",
+    "Temperate Plains"
+  ],
+  "hitDice": "17",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Dire Rhinoceros",
+  "tags": [
+    "Huge animal"
+  ],
+  "type": "Huge animal"
+}

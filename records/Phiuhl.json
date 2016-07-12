@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Gehenna",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50088.jpg",
+  "name": "Phiuhl",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large aberration"
+}

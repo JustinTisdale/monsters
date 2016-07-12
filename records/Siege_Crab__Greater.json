@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "18",
+  "environment": [
+    "Warm Aquatic"
+  ],
+  "hitDice": "32",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83053.jpg",
+  "name": "Siege Crab, Greater",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Colossal vermin"
+}

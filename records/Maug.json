@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "2",
+  "homePlane": "Acheron",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50149.jpg",
+  "name": "Maug",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large construct"
+}

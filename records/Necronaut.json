@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "14",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "32",
+  "homePlane": "Abyss",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83024.jpg",
+  "name": "Necronaut",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Extraplanar"
+  ],
+  "type": "Gargantuan undead"
+}

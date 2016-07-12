@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "20",
+  "environment": [
+    "Temperate Marshes"
+  ],
+  "hitDice": "25",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83026.jpg",
+  "name": "Night Twist, Ancient",
+  "tags": [
+    "Huge plant"
+  ],
+  "type": "Huge plant"
+}

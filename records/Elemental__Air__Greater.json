@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "21",
+  "homePlane": "Elemental Air",
+  "image": null,
+  "name": "Elemental, Air, Greater",
+  "tags": [
+    "Air",
+    "Extraplanar"
+  ],
+  "type": "Huge elemental"
+}

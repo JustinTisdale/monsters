@@ -1,0 +1,17 @@
+{
+  "alignement": "G",
+  "challengeRating": "16",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "14",
+  "homePlane": "Any Good",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG12.jpg",
+  "name": "Angel, Planetar",
+  "tags": [
+    "Angel",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Large outsider"
+}

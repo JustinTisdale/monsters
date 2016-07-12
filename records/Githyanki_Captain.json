@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "10",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "9",
+  "homePlane": "Astral",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98687.jpg",
+  "name": "Githyanki Captain",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium humanoid"
+}

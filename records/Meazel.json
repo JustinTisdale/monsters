@@ -1,0 +1,16 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Any Marshes",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG66.jpg",
+  "name": "Meazel",
+  "tags": [
+    "Medium monstrous humanoid"
+  ],
+  "type": "Medium monstrous humanoid"
+}

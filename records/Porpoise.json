@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate Aquatic"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Porpoise",
+  "tags": [
+    "Medium animal"
+  ],
+  "type": "Medium animal"
+}

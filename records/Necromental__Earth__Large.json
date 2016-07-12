@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Elemental Earth",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84762.jpg",
+  "name": "Necromental, Earth, Large",
+  "tags": [
+    "Augmented elemental",
+    "Earth",
+    "Extraplanar"
+  ],
+  "type": "Large undead"
+}

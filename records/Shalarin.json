@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate",
+    "Warm Aquatic"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG76.jpg",
+  "name": "Shalarin",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium humanoid"
+}

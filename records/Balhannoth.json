@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "10",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "14",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98666.jpg",
+  "name": "Balhannoth",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

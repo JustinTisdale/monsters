@@ -1,0 +1,15 @@
+{
+  "alignement": "NG",
+  "challengeRating": "1",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG210.jpg",
+  "name": "Pseudodragon",
+  "tags": [
+    "Tiny dragon"
+  ],
+  "type": "Tiny dragon"
+}

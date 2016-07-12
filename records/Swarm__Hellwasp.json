@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Any Evil",
+  "image": null,
+  "name": "Swarm, Hellwasp",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Swarm"
+  ],
+  "type": "Diminutive magical beast"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Cold Marshes"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Chilling Fog",
+  "tags": [
+    "Large ooze"
+  ],
+  "type": "Large ooze"
+}

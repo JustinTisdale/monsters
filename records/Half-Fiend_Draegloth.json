@@ -1,0 +1,17 @@
+{
+  "alignement": "CE",
+  "challengeRating": "5",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG59.jpg",
+  "name": "Half-Fiend Draegloth",
+  "tags": [
+    "Chaotic",
+    "Evil",
+    "Native"
+  ],
+  "type": "Large outsider"
+}

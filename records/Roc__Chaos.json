@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "22",
+  "environment": [
+    "Temperate",
+    "Warm Mountains"
+  ],
+  "hitDice": "33",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG215a.jpg",
+  "name": "Roc, Chaos",
+  "tags": [
+    "Colossal magical beast"
+  ],
+  "type": "Colossal magical beast"
+}

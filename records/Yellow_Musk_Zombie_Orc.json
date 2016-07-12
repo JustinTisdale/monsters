@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50152.jpg",
+  "name": "Yellow Musk Zombie Orc",
+  "tags": [
+    "Medium plant"
+  ],
+  "type": "Medium plant"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "4",
+  "homePlane": "Elemental Fire",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG213.jpg",
+  "name": "Rast",
+  "tags": [
+    "Extraplanar",
+    "Fire"
+  ],
+  "type": "Medium outsider"
+}

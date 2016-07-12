@@ -1,0 +1,16 @@
+{
+  "alignement": "LN",
+  "challengeRating": "<1",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "1",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50126.jpg",
+  "name": "Planetouched: Mechantrix",
+  "tags": [
+    "Native"
+  ],
+  "type": "Medium outsider"
+}

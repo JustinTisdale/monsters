@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Cold Plains"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG63a.jpg",
+  "name": "Ice Serpent",
+  "tags": [
+    "Air",
+    "Cold"
+  ],
+  "type": "Large elemental"
+}

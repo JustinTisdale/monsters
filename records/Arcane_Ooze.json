@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82961.jpg",
+  "name": "Arcane Ooze",
+  "tags": [
+    "Huge ooze"
+  ],
+  "type": "Huge ooze"
+}

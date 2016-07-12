@@ -1,0 +1,18 @@
+{
+  "alignement": "LG",
+  "challengeRating": "14",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Celestia",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG18.jpg",
+  "name": "Archon, Trumpet Archon",
+  "tags": [
+    "Archon",
+    "Extraplanar",
+    "Good",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

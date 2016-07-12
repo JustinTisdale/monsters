@@ -1,0 +1,17 @@
+{
+  "alignement": "NG",
+  "challengeRating": "18",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "20",
+  "homePlane": "Elysium",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83001.jpg",
+  "name": "Golem, Prismatic",
+  "tags": [
+    "Extraplanar",
+    "Good",
+    "Incorporeal"
+  ],
+  "type": "Large construct"
+}

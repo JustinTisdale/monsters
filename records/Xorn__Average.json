@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "7",
+  "homePlane": "Elemental Earth",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG260.jpg",
+  "name": "Xorn, Average",
+  "tags": [
+    "Earth",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}

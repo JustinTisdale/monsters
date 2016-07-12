@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Warm Aquatic"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Octopus",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Small animal"
+}

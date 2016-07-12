@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG23.jpg",
+  "name": "Beholderkin, Death Kiss",
+  "tags": [
+    "Large aberration"
+  ],
+  "type": "Large aberration"
+}

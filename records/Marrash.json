@@ -1,0 +1,18 @@
+{
+  "alignement": "LE",
+  "challengeRating": "5",
+  "environment": [
+    "Warm Deserts",
+    "Forests"
+  ],
+  "hitDice": "7",
+  "homePlane": "Any Evil",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_82.jpg",
+  "name": "Marrash",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Lawful"
+  ],
+  "type": "Medium outsider"
+}

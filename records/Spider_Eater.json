@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG234.jpg",
+  "name": "Spider Eater",
+  "tags": [
+    "Large magical beast"
+  ],
+  "type": "Large magical beast"
+}

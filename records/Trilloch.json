@@ -1,0 +1,17 @@
+{
+  "alignement": "CN",
+  "challengeRating": "8",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Negative Energy",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83066.jpg",
+  "name": "Trilloch",
+  "tags": [
+    "Chaotic",
+    "Extraplanar",
+    "Incorporeal"
+  ],
+  "type": "Small outsider"
+}

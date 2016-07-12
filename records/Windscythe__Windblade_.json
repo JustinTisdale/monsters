@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Pandemonium",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98732.jpg",
+  "name": "Windscythe (Windblade)",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large outsider"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "16",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG258.jpg",
+  "name": "Wraith, Dread",
+  "tags": [
+    "Incorporeal"
+  ],
+  "type": "Large undead"
+}

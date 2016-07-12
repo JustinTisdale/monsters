@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "9",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "24",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Monstrous Centipede, Colossal",
+  "tags": [
+    "Colossal vermin"
+  ],
+  "type": "Colossal vermin"
+}

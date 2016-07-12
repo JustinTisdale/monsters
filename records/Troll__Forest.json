@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "4",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83069.jpg",
+  "name": "Troll, Forest",
+  "tags": [
+    "Medium giant"
+  ],
+  "type": "Medium giant"
+}

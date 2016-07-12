@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate Deserts"
+  ],
+  "hitDice": "0",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Bat",
+  "tags": [
+    "Diminutive animal"
+  ],
+  "type": "Diminutive animal"
+}

@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate",
+    "Warm Land",
+    "Underground"
+  ],
+  "hitDice": "0",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_92.jpg",
+  "name": "Neogi Spawn",
+  "tags": [
+    "Tiny aberration"
+  ],
+  "type": "Tiny aberration"
+}

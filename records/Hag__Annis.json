@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "6",
+  "environment": [
+    "Cold Marshes"
+  ],
+  "hitDice": "7",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Hag: Annis",
+  "tags": [
+    "Large monstrous humanoid"
+  ],
+  "type": "Large monstrous humanoid"
+}

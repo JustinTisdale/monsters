@@ -1,0 +1,17 @@
+{
+  "alignement": "NE",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Any Evil",
+  "image": null,
+  "name": "Demonet Swarm",
+  "tags": [
+    "Evil",
+    "Extraplanar",
+    "Swarm"
+  ],
+  "type": "Tiny outsider"
+}

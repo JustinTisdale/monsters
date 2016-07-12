@@ -1,0 +1,17 @@
+{
+  "alignement": "N",
+  "challengeRating": "<1",
+  "environment": [
+    "Temperate",
+    "Warm Land",
+    "Underground"
+  ],
+  "hitDice": "0",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG80.jpg",
+  "name": "Spider, Subteranean, Hairy",
+  "tags": [
+    "Fine vermin"
+  ],
+  "type": "Fine vermin"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Gravetouched Ghoul 6th-level Human Monk",
+  "tags": [
+    "Augmented humanoid"
+  ],
+  "type": "Medium undead"
+}

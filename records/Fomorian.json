@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any Mountains",
+    "Underground"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Fomorian",
+  "tags": [
+    "Huge giant"
+  ],
+  "type": "Huge giant"
+}

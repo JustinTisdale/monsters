@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "1",
+  "environment": [
+    "Warm Plains"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Mule",
+  "tags": [
+    "Large animal"
+  ],
+  "type": "Large animal"
+}

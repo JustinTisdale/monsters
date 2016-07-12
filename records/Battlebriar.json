@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "15",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "25",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82967.jpg",
+  "name": "Battlebriar",
+  "tags": [
+    "Huge plant"
+  ],
+  "type": "Huge plant"
+}

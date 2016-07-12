@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "6",
+  "environment": [
+    "Any Marshes"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_14.jpg",
+  "name": "Catoblepas",
+  "tags": [
+    "Huge aberration"
+  ],
+  "type": "Huge aberration"
+}

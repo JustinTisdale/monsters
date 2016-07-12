@@ -1,0 +1,16 @@
+{
+  "alignement": "C",
+  "challengeRating": "7",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_95.jpg",
+  "name": "Nimblewright",
+  "tags": [
+    "Medium construct"
+  ],
+  "type": "Medium construct"
+}

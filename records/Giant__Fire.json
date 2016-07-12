@@ -1,0 +1,15 @@
+{
+  "alignement": "LE",
+  "challengeRating": "10",
+  "environment": [
+    "Warm Mountains"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG121.jpg",
+  "name": "Giant, Fire",
+  "tags": [
+    "Fire"
+  ],
+  "type": "Large giant"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "2",
+  "environment": [
+    "Warm Marshes"
+  ],
+  "hitDice": "2",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG224.jpg",
+  "name": "Shocker Lizard",
+  "tags": [
+    "Small magical beast"
+  ],
+  "type": "Small magical beast"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "22",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82997.jpg",
+  "name": "Golem, Alchemical",
+  "tags": [
+    "Large construct"
+  ],
+  "type": "Large construct"
+}

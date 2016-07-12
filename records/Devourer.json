@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "12",
+  "homePlane": "Any Evil",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG58.jpg",
+  "name": "Devourer",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Large undead"
+}

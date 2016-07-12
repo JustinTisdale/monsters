@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "12",
+  "environment": [
+    "Any Hills",
+    "Mountains"
+  ],
+  "hitDice": "12",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50106.jpg",
+  "name": "Skybleeder",
+  "tags": [
+    "Huge aberration"
+  ],
+  "type": "Huge aberration"
+}

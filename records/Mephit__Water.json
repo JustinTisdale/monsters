@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "3",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "3",
+  "homePlane": "Elemental Water",
+  "image": null,
+  "name": "Mephit, Water",
+  "tags": [
+    "Extraplanar",
+    "Water"
+  ],
+  "type": "Small outsider"
+}

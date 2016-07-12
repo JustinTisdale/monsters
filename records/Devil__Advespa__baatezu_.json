@@ -1,0 +1,17 @@
+{
+  "alignement": "LE",
+  "challengeRating": "3",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Baator (Nine Hells)",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_30.jpg",
+  "name": "Devil: Advespa (baatezu)",
+  "tags": [
+    "Evil",
+    "Lawful"
+  ],
+  "type": "Large outsider"
+}

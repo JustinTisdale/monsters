@@ -1,0 +1,15 @@
+{
+  "alignement": "C",
+  "challengeRating": "3",
+  "environment": [
+    "Any Forests"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_158.jpg",
+  "name": "Spriggan",
+  "tags": [
+    "Small fey"
+  ],
+  "type": "Small fey"
+}

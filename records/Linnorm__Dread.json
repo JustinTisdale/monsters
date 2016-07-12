@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "25",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "20",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_80.jpg",
+  "name": "Linnorm, Dread",
+  "tags": [
+    "Colossal dragon"
+  ],
+  "type": "Colossal dragon"
+}

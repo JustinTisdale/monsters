@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "6",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/libris_gallery/84778.jpg",
+  "name": "Voidwraith",
+  "tags": [
+    "Air",
+    "Incorporeal"
+  ],
+  "type": "Medium undead"
+}

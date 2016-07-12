@@ -1,0 +1,15 @@
+{
+  "alignement": "CE",
+  "challengeRating": "6",
+  "environment": [
+    "Cold Forests"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50136.jpg",
+  "name": "Wendigo",
+  "tags": [
+    "Cold"
+  ],
+  "type": "Medium fey"
+}

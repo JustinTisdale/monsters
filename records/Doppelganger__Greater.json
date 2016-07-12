@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "12",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "9",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mof_gallery/MonFaePG35.jpg",
+  "name": "Doppelganger, Greater",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium monstrous humanoid"
+}

@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "4",
+  "environment": [
+    "Cold Aquatic"
+  ],
+  "hitDice": "10",
+  "homePlane": "Material",
+  "image": null,
+  "name": "Shark, Huge",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Huge animal"
+}

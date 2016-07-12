@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "5",
+  "environment": [
+    "Temperate",
+    "Warm Aquatic"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_113.jpg",
+  "name": "Sirine",
+  "tags": [
+    "Aquatic"
+  ],
+  "type": "Medium fey"
+}

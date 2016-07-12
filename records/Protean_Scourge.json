@@ -1,0 +1,15 @@
+{
+  "alignement": "NE",
+  "challengeRating": "12",
+  "environment": [
+    "Temperate Plains"
+  ],
+  "hitDice": "13",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83005.jpg",
+  "name": "Protean Scourge",
+  "tags": [
+    "Shapechanger"
+  ],
+  "type": "Medium monstrous humanoid"
+}

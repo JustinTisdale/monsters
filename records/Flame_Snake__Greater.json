@@ -1,0 +1,16 @@
+{
+  "alignement": "E",
+  "challengeRating": "16",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "17",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50134.jpg",
+  "name": "Flame Snake, Greater",
+  "tags": [
+    "Fire"
+  ],
+  "type": "Huge magical beast"
+}

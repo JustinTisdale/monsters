@@ -1,0 +1,15 @@
+{
+  "alignement": "N",
+  "challengeRating": "11",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "15",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/83000.jpg",
+  "name": "Golem, Mud",
+  "tags": [
+    "Large construct"
+  ],
+  "type": "Large construct"
+}

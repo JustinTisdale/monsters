@@ -1,0 +1,15 @@
+{
+  "alignement": "LN",
+  "challengeRating": "4",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_90.jpg",
+  "name": "Myconid Guard",
+  "tags": [
+    "Medium plant"
+  ],
+  "type": "Medium plant"
+}

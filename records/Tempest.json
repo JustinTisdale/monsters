@@ -1,0 +1,18 @@
+{
+  "alignement": "CN",
+  "challengeRating": "16",
+  "environment": [
+    "Any Land"
+  ],
+  "hitDice": "24",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_161.jpg",
+  "name": "Tempest",
+  "tags": [
+    "Air",
+    "Earth",
+    "Fire",
+    "Water"
+  ],
+  "type": "Gargantuan elemental"
+}

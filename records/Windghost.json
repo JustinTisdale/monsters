@@ -1,0 +1,16 @@
+{
+  "alignement": "L",
+  "challengeRating": "15",
+  "environment": [
+    "Temperate",
+    "Warm Any"
+  ],
+  "hitDice": "18",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_124.jpg",
+  "name": "Windghost",
+  "tags": [
+    "Huge aberration"
+  ],
+  "type": "Huge aberration"
+}

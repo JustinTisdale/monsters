@@ -1,0 +1,16 @@
+{
+  "alignement": "N",
+  "challengeRating": "5",
+  "environment": [
+    "Temperate",
+    "Warm Mountains"
+  ],
+  "hitDice": "3",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_119.jpg",
+  "name": "Sylph",
+  "tags": [
+    "Air"
+  ],
+  "type": "Small outsider"
+}

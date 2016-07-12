@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "6",
+  "environment": [
+    "Temperate Forests"
+  ],
+  "hitDice": "6",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mmiii_gallery/82995.jpg",
+  "name": "Glaistig",
+  "tags": [
+    "Medium fey"
+  ],
+  "type": "Medium fey"
+}

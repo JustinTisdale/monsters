@@ -1,0 +1,15 @@
+{
+  "alignement": "CN",
+  "challengeRating": "2",
+  "environment": [
+    "Cold Plains"
+  ],
+  "hitDice": "4",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm4_gallery/98733.jpg",
+  "name": "Wizened Elder",
+  "tags": [
+    "Medium plant"
+  ],
+  "type": "Medium plant"
+}

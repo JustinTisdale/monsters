@@ -1,0 +1,15 @@
+{
+  "alignement": "LN",
+  "challengeRating": "6",
+  "environment": [
+    "Any Underground"
+  ],
+  "hitDice": "5",
+  "homePlane": "Material",
+  "image": "http://www.wizards.com/dnd/images/mm2_gallery/88268_620_90.jpg",
+  "name": "Myconid Circle Leader",
+  "tags": [
+    "Large plant"
+  ],
+  "type": "Large plant"
+}

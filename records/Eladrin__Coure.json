@@ -1,0 +1,17 @@
+{
+  "alignement": "CG",
+  "challengeRating": "2",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "2",
+  "homePlane": "Arborea",
+  "image": "http://www.wizards.com/dnd/images/boed_gallery/75103.jpg",
+  "name": "Eladrin: Coure",
+  "tags": [
+    "Chaotic",
+    "Extraplanar",
+    "Good"
+  ],
+  "type": "Tiny outsider"
+}

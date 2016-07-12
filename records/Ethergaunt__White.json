@@ -1,0 +1,16 @@
+{
+  "alignement": "NE",
+  "challengeRating": "13",
+  "environment": [
+    "Any Land",
+    "Underground"
+  ],
+  "hitDice": "11",
+  "homePlane": "Ethereal",
+  "image": "http://www.wizards.com/dnd/images/ff_gallery/50118.jpg",
+  "name": "Ethergaunt, White",
+  "tags": [
+    "Extraplanar"
+  ],
+  "type": "Medium aberration"
+}

@@ -1,0 +1,16 @@
+{
+  "alignement": "CN",
+  "challengeRating": "7",
+  "environment": [
+    "Any"
+  ],
+  "hitDice": "8",
+  "homePlane": "Limbo",
+  "image": "http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG33.jpg",
+  "name": "Chaos Beast",
+  "tags": [
+    "Chaotic",
+    "Extraplanar"
+  ],
+  "type": "Medium outsider"
+}
